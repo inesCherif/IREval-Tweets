@@ -1,0 +1,24 @@
+# Environment variables — NEVER push this
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Output data (optional: comment out if you want to push results)
+# phase1/tweets.jsonl
+# phase1/qrels.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
