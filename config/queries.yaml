@@ -1,0 +1,25 @@
+# Each query has:
+#   id: unique identifier (Q1..Q5)
+#   text: the search string sent to Twitter API
+#   label: human-readable description
+
+queries:
+  - id: "Q1"
+    text: "closing Hormuz strait"
+    label: "Closing Hormuz strait"
+
+  - id: "Q2"
+    text: "revolutionary guard Iran"
+    label: "Revolutionary guard"
+
+  - id: "Q3"
+    text: "supreme leader Iran"
+    label: "The supreme leader"
+
+  - id: "Q4"
+    text: "US bases attack Iran"
+    label: "Hitting US bases"
+
+  - id: "Q5"
+    text: "Iran regime collapse"
+    label: "Regime collapse"

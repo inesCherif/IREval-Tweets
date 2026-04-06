@@ -1,0 +1,15 @@
+collection:
+  tweets_per_query: 100 # Fetch 100 tweets per query
+  relevant_count: 30 # First 30 = relevant (per project spec)
+  language: "en"
+  exclude_retweets: true
+
+output:
+  phase1_dir: "phase1" # Where to write output files
+  corpus_file: "tweets.jsonl"
+  queries_file: "queries.txt"
+  qrels_file: "qrels.txt"
+
+api:
+  max_results_per_page: 10 # Free tier: 10 per request
+  sleep_between_queries: 3 # Seconds to wait between queries
