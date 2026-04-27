@@ -1,0 +1,5 @@
+Q1	Hormuz strait Iran
+Q2	revolutionary guard Iran
+Q3	supreme leader Iran
+Q4	US bases attack Iran
+Q5	Iran regime collapse

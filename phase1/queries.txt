@@ -3,3 +3,23 @@ Q2	revolutionary guard Iran
 Q3	supreme leader Iran
 Q4	US bases attack Iran
 Q5	Iran regime collapse
+Q6	Iran regime change
+Q7	regime change Middle East
+Q8	surrender our terms Iran
+Q9	Iran much stronger military
+Q10	closing Hormuz strait threat
+Q11	Iran intercepting missiles drones
+Q12	hitting US bases Middle East
+Q13	Zionist coalition Iran war
+Q14	terrorist regime Iran sanctions
+Q15	imperialist aggression Iran
+Q16	Iran nuclear deal collapse
+Q17	Iran war escalation 2024
+Q18	IRGC attack response
+Q19	Iran oil embargo sanctions
+Q20	Tehran military strikes
+Q21	Iran proxy war Lebanon
+Q22	Iran ballistic missiles attack
+Q23	Iran ceasefire negotiations
+Q24	ayatollah Khamenei war speech
+Q25	Iran US conflict escalation
