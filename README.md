@@ -5,7 +5,7 @@ Information Retrieval System project using PyTerrier on a self-built tweet colle
 
 ## Team
 
-Group xx — Class 2INLOG2
+Group 02 — Class 2INLOG2
 
 - Firas Chabbouh
 - Ghaya Ammari
