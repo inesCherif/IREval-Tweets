@@ -1,6 +1,6 @@
 # Each query has:
 #   id: unique identifier (Q1..Q5)
-#   text: the search string sent to Twitter API
+#   text: the search string sent to Twitter 
 #   label: human-readable description
 
 queries:
