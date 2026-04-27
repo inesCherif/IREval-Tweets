@@ -23,3 +23,83 @@ queries:
   - id: "Q5"
     text: "Iran regime collapse"
     label: "Regime collapse"
+
+  - id: "Q6"
+    text: "Iran regime change"
+    label: "Iran regime change"
+
+  - id: "Q7"
+    text: "regime change Middle East"
+    label: "regime change Middle East"
+
+  - id: "Q8"
+    text: "surrender our terms Iran"
+    label: "surrender our terms Iran"
+
+  - id: "Q9"
+    text: "Iran much stronger military"
+    label: "Iran much stronger military"
+
+  - id: "Q10"
+    text: "closing Hormuz strait threat"
+    label: "closing Hormuz strait threat"
+
+  - id: "Q11"
+    text: "Iran intercepting missiles drones"
+    label: "Iran intercepting missiles drones"
+
+  - id: "Q12"
+    text: "hitting US bases Middle East"
+    label: "hitting US bases Middle East"
+
+  - id: "Q13"
+    text: "Zionist coalition Iran war"
+    label: "Zionist coalition Iran war"
+
+  - id: "Q14"
+    text: "terrorist regime Iran sanctions"
+    label: "terrorist regime Iran sanctions"
+
+  - id: "Q15"
+    text: "imperialist aggression Iran"
+    label: "imperialist aggression Iran"
+
+  - id: "Q16"
+    text: "Iran nuclear deal collapse"
+    label: "Iran nuclear deal collapse"
+
+  - id: "Q17"
+    text: "Iran war escalation 2024"
+    label: "Iran war escalation 2024"
+
+  - id: "Q18"
+    text: "IRGC attack response"
+    label: "IRGC attack response"
+
+  - id: "Q19"
+    text: "Iran oil embargo sanctions"
+    label: "Iran oil embargo sanctions"
+
+  - id: "Q20"
+    text: "Tehran military strikes"
+    label: "Tehran military strikes"
+
+  - id: "Q21"
+    text: "Iran proxy war Lebanon"
+    label: "Iran proxy war Lebanon"
+
+  - id: "Q22"
+    text: "Iran ballistic missiles attack"
+    label: "Iran ballistic missiles attack"
+
+  - id: "Q23"
+    text: "Iran ceasefire negotiations"
+    label: "Iran ceasefire negotiations"
+
+  - id: "Q24"
+    text: "ayatollah Khamenei war speech"
+    label: "ayatollah Khamenei war speech"
+
+  - id: "Q25"
+    text: "Iran US conflict escalation"
+    label: "Iran US conflict escalation"
