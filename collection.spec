@@ -1,2391 +1,2391 @@
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1652617266230337536.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714576992375636079.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714596850425069780.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714597120194523345.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714597635330289838.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714603173564867057.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714617898910535688.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714625914762637814.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714638175203639580.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714656469994328436.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714682731727110312.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714694821808349462.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714787250653864447.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714809595518951714.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714832849294217325.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714914282863722667.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714917143060586813.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1714920505474695241.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1715080374684901696.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1716598602565402807.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1723793342536798698.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1724462743644762434.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1725565045013135834.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1779276643686597087.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1808847987973439820.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1816430397665759740.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1819366242752381169.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1820093669862686998.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1821946440345637171.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1822989553084367168.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1826552257242145274.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1828160102756450657.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1832320507984687179.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1832475167920124109.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1833874052949131460.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1838754586217054590.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1841201920490553354.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1841309630070448559.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1841506887667163575.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1841531089292296320.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1841539367812108669.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1841542417297899750.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1841543081117594062.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1841543875489628409.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1841926592878051440.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1841961548291465598.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1842067124048523373.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1842154662150934774.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1842173797828370590.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1842213594169008482.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1842248316807176363.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1842455933173280937.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1843048588709945741.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1843300174158033322.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1843339738725433694.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1843665749245866065.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1843666764456206552.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1843702204722753968.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1844028835995832450.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1845767534416416962.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1846934452703821939.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1847672640099496346.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1847703021439815733.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1848063417531449709.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1848231605782949908.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1849058189402357765.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1849118587266433230.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1849179446999482455.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1850018526729281995.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1850226636362522883.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1850490823873298639.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1850550295387849065.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1850575486625124672.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1850758670176378956.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1850948295696531613.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1851088379087118605.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1851722418638798923.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1851879157862387912.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1851897289595318783.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1853171278972403867.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1854226698897903725.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1856766388846711205.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1860377407829512413.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1860663780499140834.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1862935457606062359.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1863843754454454470.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1865390070032646220.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1866249346804818144.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1867254998335136038.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1870715908827615267.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1873141907020283912.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1873780608737964403.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1874527860947558504.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1890374471963336805.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1900249308940906930.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1900370580538290195.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1906340705770864714.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1906744935316955145.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1913933359056666637.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1915913237545320500.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1916183423061807600.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1916990912267194461.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1917738485068243249.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1918037862982840427.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1922387841704722456.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1924347769172496806.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1925333777284272443.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1928009591964545390.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1928645845064495528.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1928647145608958295.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1928881620947263690.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1929531733810053619.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1929552751849087315.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1930135607814070663.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1931126727968776374.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1932917276682182946.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1933071081385976206.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1933377985283043364.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1933624929146319153.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1933631923470872734.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1933634371430592864.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1933758872864301561.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1933781354954551464.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1933807429126345011.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1933843108980265378.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1933859267422888073.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1933877386778669521.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1934024124676096318.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1934059444138303581.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1934181816602141136.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1934252005893251207.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1934644930758213759.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1934880300389335179.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1934958751733162275.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1935030218672275634.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1935048681142747412.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1935146841613427124.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1935291629721764126.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1935292405785518424.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1935451943360479269.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1935655531315868154.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1935667015382937624.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1936484813613191303.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1936600833225076779.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1936665024212447271.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1936790276540178516.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1936850868655022452.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1936924624799039922.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1937091808774803843.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1937168786735652998.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1937191397657821586.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1937280338733982195.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1937496710059565219.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1937496798362501452.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1938209610135179589.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1938286876441370951.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1938512725446980059.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1938574104220549315.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1938659565685379157.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1938661088037327319.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1938685882661511483.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1938704128680607904.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1939039585042084105.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1943973206089404589.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1944823316537016802.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1945475908564865431.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1945480500862455979.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1945496721301090755.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1946292278231752836.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1947253828958470628.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1947255045831135434.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1947277941596967035.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1947303047635566950.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1947307158577741825.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1947386541304680897.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1947387409080938808.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1947430825571815503.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1947514900772982860.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1948789643140296781.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1950134917829890547.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1951642959226523825.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1954519335281496426.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1960347885553488240.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1960704765941146001.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1961155559517831648.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1963237063429337106.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1965640183014912482.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1972204279491342815.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1972242675052265709.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1972346397333831711.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1974580287397933234.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1975208343934488892.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1980287086055018876.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1981352441678565834.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1984196797049225597.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1990206036247015562.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1994101846567231576.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1994105793843458475.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1994119709793624398.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1994192010425594367.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\1997356033321132401.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2002406778579861827.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2006962091991904333.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2007836938393502149.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2011588435195085209.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2012119808247300132.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2012151160262582715.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2012611071631069271.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2014297714532520030.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2014331726869246354.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2014750295176491228.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2014756774889308205.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2014816371100578139.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2015337785000153258.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2015818046351278454.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2016487758034796891.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2016504995714396639.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2016506955494240575.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2016536382521438325.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2016656806647419384.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2016893034512687533.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2016895598029656493.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2016924404110737805.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2016937550007664811.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2017040083283501420.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2017133169082863969.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2017161637883486218.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2017932621334888657.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2018016299041902659.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2018438137471435222.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2018631959778336916.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2018814290568884626.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2018824231119896590.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2018978587957989848.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2019107816707899799.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2019791359498920260.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2019794248233570718.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2020463779293634874.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2020573346124140545.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2022681222506488265.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2022807460583489879.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2022839526369157596.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2023739392066556120.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2023808410979103086.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2023929459003342954.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2024152743003488301.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2024204479050973419.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2024453604128522410.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2024500690027208943.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2024792429602410550.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2025195552124678411.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2025451826724712953.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2025857964628722051.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2026533579027611847.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2026553290209841585.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2026841349144658351.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027156458081792185.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027664141880860894.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027673156136407536.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027690712213401732.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027691404617785640.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027692141816725545.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027700084624814585.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027703768276475958.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027703830788383048.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027704187673276537.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027712646057787443.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027720972309340330.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027734590459105538.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027735076533153826.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027738419506385392.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027738735824044501.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027747977176007017.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027750686197526574.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027770360075075604.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027772720734474741.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027774409100914831.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027800204225749004.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027817530560041256.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027820381554327728.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027821323104489833.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027836756066779496.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2027963709419884746.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028032456973304110.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028168447515828293.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028181352357802241.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028252554543485174.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028272290475999405.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028279976378716256.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028290356165632124.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028301122587508898.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028305948780253626.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028315855210082779.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028355906837061645.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028401891827429598.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028420681340211294.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028505430029218222.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028524423696032098.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028640658672501100.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028667650050826446.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028814319601811754.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028825268551336375.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028830100486005088.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028843116623519871.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028901108966740196.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028901311350227130.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028968010401112477.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2028994965246824721.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029094622061097322.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029274741144514981.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029277509796413886.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029336641756635523.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029353058178601343.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029550245026423186.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029596279592845787.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029674818270851225.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029716665466778008.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029717159853891755.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029738107889762388.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029846824194904295.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029890768882540546.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029940246251495557.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029954636577214526.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2029989926641488224.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030007531775610952.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030018564036423995.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030033507754680461.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030090365664121126.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030155632100417576.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030224566019121568.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030329259902808452.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030363976924545409.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030368252384120997.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030371713943245191.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030373201151442981.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030375243551010841.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030377594802057380.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030378846206218392.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030395820680298844.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030420890270515558.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030463823069516071.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030631265330757701.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030636631758188773.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030659811931754633.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030676892978643452.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030741573902991501.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030746505104200040.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030821412131467537.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030923910649086109.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030967188664783315.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2030971802059501604.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031021657121505622.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031039937450279267.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031177690204790988.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031247080501440648.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031288704984035444.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031305810039763131.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031328719156163034.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031334743912927462.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031365049789333585.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031381940893270303.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031457774433919269.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031470204241219673.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031497801784594896.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031519345298264120.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031716160626905123.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031837368852902011.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031838554096333167.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031840265162432709.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2031905602104856771.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032091960664592554.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032114436945645765.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032120134286934312.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032162209023856804.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032194264177000924.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032425171827540359.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032452514520375609.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032465903254986814.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032495783161852035.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032640558200483965.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032657653063934095.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032696529799323666.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032727410039267788.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032761532430561632.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032778904671498598.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032819990835954062.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032824131473809620.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032828238381162937.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2032940047394115958.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033091070943166830.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033144860669264190.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033152984365027591.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033191631386538322.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033192516615323843.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033223267507462375.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033311843691741646.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033372810907714017.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033377447450964091.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033422071846293859.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033597398182748469.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033654055461961758.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033685430307016764.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033686487901081629.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033754639695548741.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2033996701229584686.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034027743327772929.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034028022253126090.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034056484393521636.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034083975275417883.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034156982202994729.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034211819070373907.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034260649270734941.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034285143792267609.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034312521167876194.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034317370953752673.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034334640257859943.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034353149658439898.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034355747816095980.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034399365217808493.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034405300246376530.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034413155271733601.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034420909340274812.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034462966674784401.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034571715754254415.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034579403686945225.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034594264240488752.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034624458149724583.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034641668595409376.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034645865785381329.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034715992686043360.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034814871582204142.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034825989407076837.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034836388324233281.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034839485947478128.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034854340335137218.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034880867584057792.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2034882184406770102.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035097316001034646.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035098211954958403.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035101892561231967.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035174062436065533.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035336784557605176.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035346186144481521.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035435362823413815.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035455992243052795.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035459700234596612.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035462862164955557.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035481320319848868.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035533742094323760.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035549636195442864.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035551168508608701.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035567751700300249.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035587648945799381.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035607926987980885.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035660781258146249.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035674476554469647.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035679634218746200.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035690822985793613.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035736639469658513.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035736886304723059.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035754106757808314.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035756878462861711.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035849591845961746.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035893718817902639.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035916318826721765.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035924851580391648.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035934562728001594.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035952139743166848.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2035987819181539426.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036027055003881722.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036081126448517350.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036100542041084173.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036101659756011700.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036167688419156408.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036189707474747686.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036269205125824718.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036273723724935319.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036335133058281888.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036373471920259439.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036405397938942313.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036405524703346715.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036427898375053465.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036429036164190434.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036509363200774410.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036550963004056040.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036566404967833658.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036607372353761763.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036688879537840252.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036717371478749670.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036733728089588137.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036771847937683601.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036809066199048429.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036829156558659670.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036866703339237740.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036879911625846887.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2036887888537829525.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037052767236186441.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037104630648205625.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037135320559550469.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037139379207233737.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037145041563521032.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037183970614337548.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037229517329309703.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037253007566319945.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037253587273752638.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037285517969227992.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037289580177526892.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037348459918033282.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037510244918493624.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037570831987970470.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037596402277052487.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037654779435044995.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037669735735664735.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037717321142489243.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037731453426171974.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037906784120156459.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037911519636136298.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037937332687356059.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037942872381567030.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037953839211450848.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2037998909721813233.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038034120027349085.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038072076980936902.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038109284328702387.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038136076062122451.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038215181587861885.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038215691078402247.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038225729683697841.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038237896969200127.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038240631630528773.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038271339337834710.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038291953494733091.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038317921009643652.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038326777609695412.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038331502967083358.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038374231348539550.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038397830595797403.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038431100075221390.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038438187677483463.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038443521703559673.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038494375735337340.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038547285374570897.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038576276240236781.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038583346671014241.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038591924236333512.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038600395610525878.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038622676156141893.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038655800332218680.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038676557946904747.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038677806197162068.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038688552460898465.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038727513984143424.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038954882585985492.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038979295008460834.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038982517420683274.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038983137867501990.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2038995401953656871.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039011036305494390.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039032219029921868.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039051392321495458.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039058207369281949.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039101399967936771.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039162364579156192.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039214038954180796.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039229131838136535.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039280096024908046.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039281739441242360.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039331052578340908.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039351946491089264.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039353168199368721.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039354369708380269.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039358879042097357.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039365450174202191.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039380919153229911.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039382820175671335.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039404316499329148.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039469364240388275.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039510695180468416.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039528544825647122.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039582576105660615.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039589086202122245.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039598713476465113.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039634098671509987.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039638152877359261.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039668667571437732.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039684763058098607.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039693066047758637.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039702175493013817.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039722102211621256.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039732425329152448.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039735652187623658.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039743375180505297.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039746040421667267.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039771098665947512.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039776501445398743.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039788666613031122.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039799976532770981.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039807395476525178.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039836220000243820.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039874315106349127.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039885709721366821.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039887864637403309.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2039963375589839232.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040011627156631615.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040020365703811202.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040034578681741478.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040100496149446899.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040105690447151132.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040105861142516052.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040105871477235734.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040106314265661953.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040118894267076650.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040124414482940060.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040141117602054506.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040167014103420981.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040209798050853276.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040267376566878712.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040295153936863488.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040317285567693027.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040320391953211872.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040322476325105887.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040331802569814470.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040349498388427212.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040358932661903484.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040366113784004635.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040366837419171895.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040369758529347615.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040380146545303725.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040399372613988805.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040399806049161463.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040402974246081005.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040403610974978364.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040414907506814976.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040420228157321695.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040452738656448835.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040483764032377271.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040494278619886048.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040496607850823692.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040531086841671713.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040533762589540715.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040533948497862916.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040541442041622932.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040544440499237123.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040563514155102286.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040583970157433065.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040585031824163100.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040593304233050263.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040595279238316093.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040646313415430427.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040659115517603957.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040681122493862295.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040705329155977225.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040710274886377858.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040712564896833982.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040754946946285878.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040755876144017464.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040756024513069076.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040763381007687865.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040766279447965733.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040768916213936229.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040772082955595961.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040782715193016766.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040798455900053610.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040799039826882648.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040799046483472642.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040831312517292137.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040838004424708259.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040843878840811547.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040852607632068659.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040856508599279955.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040882419645948103.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040884432211460235.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040890026045624788.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040943476183810500.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040952710909063637.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040961337115681159.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040965512469926252.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040967513471844629.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040980194836545944.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2040992658156408928.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041016155075477512.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041022588797747485.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041031636561891730.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041047451784638912.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041057560120164829.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041059796082630768.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041063308657049979.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041071249254764643.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041072180264657242.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041078469769998776.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041080469106966918.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041087535917449714.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041098402969137647.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041113384348000301.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041116712276279792.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041122035770773576.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041122180629410079.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041124056456458278.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041128355534143490.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041130533099302916.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041131308701700320.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041132548957544958.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041133081122292164.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041136723518783577.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041140645537177927.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041148265505214890.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041149001895153823.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041150448975937793.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041155185716658621.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041158235873267980.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041168292669264348.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041174137926811788.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041174253706572123.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041187245726797905.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041191059212861518.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041193014966505622.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041197877607772248.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041199172607438871.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041199714939334938.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041201325086539821.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041202637534572667.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041214640164614560.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041218519178649652.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041223624690979184.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041224272442728633.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041226127361155509.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041233118968037454.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041242884016341336.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041243143589523807.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041244819557937359.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041253672819343467.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041254339197432164.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041257970126790782.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041260499610882445.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041263876818321657.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041272834836566461.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041287377302467039.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041296750971936998.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041302747010470103.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041313272893231499.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041314631642419329.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041324864020050430.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041326758536839565.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041329353255227434.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041346581790855227.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041353740163117314.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041354667016278048.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041356402208162029.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041372755078283307.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041380070653125054.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041396877162164646.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041401302710673437.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041404640064114910.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041443847486816287.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041452516345548991.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041463481812017630.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041466905806901569.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041467362700841228.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041468338421846139.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041470318363984127.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041471812475695319.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041472008869851408.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041472013743599651.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041472840558342376.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041473155336675708.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041475150059827332.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041475661735350412.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041476728434897342.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041478712865013800.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041481189135958195.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041486234984366509.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041491033209409550.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041492164266631468.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041493337732010435.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041494977092735021.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041495116242997587.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041496128311714193.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041501357488660837.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041504103399104774.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041505141761941681.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041511335339479231.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041512468434845888.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041516721580994807.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041517601319514498.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041518291491905590.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041519273546543181.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041519434892779617.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041520728902709324.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041523611270304129.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041524808379486579.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041525437067616579.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041526085691576715.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041526166515859805.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041530563753054467.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041530738961445179.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041538522633417145.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041546858108276974.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041562509610532941.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041562899844333831.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041563747928690805.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041569655966581120.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041570112176836786.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041570735337173431.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041570774604017795.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041573135443521855.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041573835456098807.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041574898573718006.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041580434447110275.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041583862732747089.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041588628577776123.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041591403881324710.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041597025280577582.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041602665671467013.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041603215238594608.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041606217706221707.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041626070399492601.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041626099197550693.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041629529723248646.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041630219145019473.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041633844802068870.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041647149310476767.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041651397356138962.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041651975146606999.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041652041152377093.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041652366227743170.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041653522727411981.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041660567145083146.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041666758847688865.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041669140998713839.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041670624397963516.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041672167176229083.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041676779383935025.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041679790172991726.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041686688779362786.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041690304802136352.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041690421710000443.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041704688362631369.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041722288253604025.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041722450644439539.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041722499772354737.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041727383712264561.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041735336347496673.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041739315349483871.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041741689019040044.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041749886211969208.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041785127701807519.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041794625048891500.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041798397158416450.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041798828383465604.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041816019128217725.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041818137251774834.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041822107403948324.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041828608067465347.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041829487281582417.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041832001406173449.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041832394496307541.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041832794595176517.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041835756512055497.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041838675903049922.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041841176714662328.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041841181571608688.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041843172192534726.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041851209233977356.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041854654951084442.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041856642388541623.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041859245637824817.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041865568660418963.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041867380536586258.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041870525983813775.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041883475741966582.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041886044157575571.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041887102116217327.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041892624752103895.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041893075359035492.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041900185954218009.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041903023115661594.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041903768753651828.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041905440301441174.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041908936853655586.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041910872004600150.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041912816677089700.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041913431679238541.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041913571701862719.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041913867266109898.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041914121105674681.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041914697189114247.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041915703469453377.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041916543475273795.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041917081164120344.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041917546543116293.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041922607675494476.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041923035641344317.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041925726098657733.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041926679954591777.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041927343875252281.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041930312112836668.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041937530589688140.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041949764795707461.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041951355691008264.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041952003916755317.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041952434038136921.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041956744465875143.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041959757636845879.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041966093787611335.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041969877062123648.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041975617802150183.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041977592774062451.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041978164705132714.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041978313330057220.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041979048478273699.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2041994645157159342.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042016192261415250.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042026005116723241.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042049857662148959.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042050372001239509.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042074367233028373.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042077140275933595.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042088641720127656.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042090753170514277.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042113595358507188.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042115534410387856.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042132638840807459.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042134514127024398.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042141730732937658.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042143766983614481.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042147823853170858.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042153147976519905.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042156225819795754.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042163101403951467.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042171600066199841.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042173441814729188.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042178945487884658.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042189401086964222.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042189948728803462.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042216066529857781.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042238848487620898.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042243488679420084.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042267020025074046.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042270245339942916.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042283564201279622.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042285167403024731.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042286290172068186.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042287412009656760.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042291786794590513.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042293039465394186.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042297199455838407.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042297432432615708.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042300396878586357.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042301247060132251.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042301265498292284.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042302427710300369.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042302858930885047.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042306053602492860.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042317564689211563.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042321356096704606.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042324795757371613.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042325121659293700.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042332525121650848.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042332581614477464.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042333981191127090.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042334597296381955.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042335225028686131.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042338557638152358.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042340463856976032.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042343832587530364.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042354266686570611.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042356295278202949.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042374340575183282.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042374378072019293.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042382862721429923.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042407893463343228.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042427545522749578.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042437858418704597.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042438410045177994.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042453444863410294.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042459206507205106.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042463823924220081.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042495007136096328.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042503471409082471.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042519262321951016.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042522040100622762.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042532690545787327.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042535303131635889.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042541694864744730.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042591315905429670.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042607943481499773.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042618286785880561.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042624023540973721.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042637022435905760.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042638730662678791.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042660364891099527.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042661659186204958.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042672833092870648.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042697416311476688.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042704796571082816.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042723002635424084.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042726616460038633.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042762050942742835.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042783154893635918.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042805086842212601.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042807349069451734.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042841960411439367.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042852748056465743.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042863157425705399.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042873687771127856.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042891057701228567.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042898166832636385.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042907173387415818.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042928374646030441.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042933456632447058.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042949435945009593.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042950750091817236.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042957078097232040.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042958868314034550.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042960919446372739.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042971368480964694.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2042994145980006565.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043007096044552669.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043016766616416531.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043029084507176989.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043029636884443533.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043032319779328178.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043032600453779565.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043061052804382872.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043062728332296278.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043073140511674714.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043078756114534791.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043079785606263253.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043088415038599426.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043090871092912315.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043105989088677902.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043115919963037918.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043142261559738856.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043142301602439409.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043146371935658090.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043150514972487688.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043151110840660459.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043151203568341378.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043157123522244731.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043158953563947223.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043162951033499849.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043166403793223973.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043168734316273888.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043178406632632532.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043205047258058917.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043211582352634038.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043220781824618698.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043225498923192547.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043226856812396742.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043229398384435244.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043230105628295174.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043230899060531432.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043231117063627189.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043246584914387344.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043249009490571292.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043249111991034293.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043254522584137783.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043260208047366309.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043264154593575180.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043266944996938169.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043271395359277553.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043275331604234371.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043276443149565998.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043281166854226216.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043290769583206582.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043293285847105814.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043294551365070967.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043295874273419344.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043295961464643755.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043299405789339826.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043310763645759977.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043324199582810508.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043325641043452383.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043326843780997436.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043334979820675327.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043344650547892486.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043347735936487820.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043351138955596003.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043351179036393719.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043352004211142713.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043360544913084925.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043367716011016347.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043370816688079280.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043376370596594138.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043380442435658054.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043382231994130437.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043382889174213034.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043386242407227871.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043408594071146508.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043409883782107416.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043409989276954653.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043416241323573250.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043424960853819509.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043436654187118754.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043441841287139504.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043445701372260839.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043462794306355346.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043464433112956932.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043468712188031428.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043483889696477425.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043504762449199142.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043511750663045238.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043569878297346220.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043570284020568564.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043576548951986377.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043606829318721757.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043611007763751002.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043658347577032753.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043660123357507856.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043673371095765094.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043676341996777688.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043676991732306421.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043678294202356166.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043679806676509001.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043683142658064809.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043690839860531329.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043697133337886767.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043715690901942703.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043718171299832117.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043718278019793219.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043723895178449312.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043723917039435944.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043724637885059133.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043729009272660318.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043735749569458182.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043738214301864158.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043743518284492899.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043748548471108056.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043750046789681532.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043754133945987519.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043755425728999705.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043758637366087952.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043759384774283644.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043760166303346813.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043772436248965407.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043774522487140691.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043781639528935655.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043790684029632994.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043796366342705288.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043806218305581194.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043820435490451862.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043830569474076893.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043831598240674091.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043843688355508651.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043847956143509719.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043849149976649952.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043861041239732242.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043861543687971037.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043878449467555871.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043878733119987935.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043882223728791918.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043922204157694393.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043970998320701826.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2043987368923852949.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044007763613802566.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044016981729214553.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044018281905041542.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044027456248787389.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044028678770663786.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044031727975219499.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044045450823573667.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044058106909381087.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044062496042942628.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044089922982649980.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044098266221117610.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044103379907952982.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044107901011112291.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044135044751495559.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044136965088419915.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044146808599822639.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044151465963315709.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044170047426572431.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044180566572961802.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044270455406596394.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044272929626575080.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044287954894340375.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044294073939316898.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044295111748501523.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044297122573328670.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044297895977902195.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044303550189043915.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044335141699609006.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044345792069013761.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044347009037963731.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044363403611791570.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044386660469579904.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044386854863011983.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044394373178171793.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044394981360599361.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044409120346812706.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044409455895326888.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044409463315050798.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044413844357820500.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044433130241540567.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044446007568519637.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044447797852639628.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044450290091294907.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044450917907419240.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044460430035136649.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044461248205455540.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044474423751668123.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044474609899085889.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044477975891214456.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044483418298151413.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044486351853084681.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044487789790826689.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044503820391125052.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044511083344630024.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044522905078321383.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044524938258714901.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044558953883844890.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044559952836973032.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044561681259332038.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044582049508479018.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044599900311265594.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044604142044233826.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044613514615263245.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044630231672303686.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044634246187213163.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044635509708984323.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044657289013920052.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044664521650762165.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044664917781881028.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044694972495196647.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044696673465565200.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044701855150649639.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044731201760420304.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044738613666087392.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044741848917283064.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044750237076427150.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044760428287258719.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044764969854488962.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044766777586909200.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044779117271544222.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044798944778277219.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044799077099962436.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044799934067581288.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044802741663371609.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044804474368131473.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044806410421014539.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044809407603642523.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044816408111149081.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044823594350375163.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044824726632083615.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044826610986106880.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044828627209277698.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044842193660117084.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044846055137722403.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044846530549428630.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044861076169187378.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044861252694880383.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044869215371608485.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044870335263043852.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044875338719633566.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044876907078906224.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044906697354002673.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044910536010400019.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044928832424272027.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044938361391939882.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044961292134515068.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2044970108112552145.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045009825562755257.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045023484120617094.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045043781985005599.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045044242003759454.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045057277573341580.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045066100329869367.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045076329758871681.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045085593663918214.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045105328644125078.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045117788017119524.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045121573124759713.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045122588888683007.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045122877951742189.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045123028720201844.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045123605529543017.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045123636856602795.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045125827872923672.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045125926288056531.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045126052016455776.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045127088655519760.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045127280024773030.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045127314644586980.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045127570564243877.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045127767289659677.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045127802932875465.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045128038233321804.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045128179199643970.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045128754284933479.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045128836933673314.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045128858123350457.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045129276693815685.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045129299213029421.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045130010063675602.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045130184559333635.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045130530488713492.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045131323916828869.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045131418703986876.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045131607586025513.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045131644584005644.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045132211179999466.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045132280587239729.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045132305883111888.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045132702882443527.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045132711141024146.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045132759035773312.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045133183092420754.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045133425154076920.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045133801467113805.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045133865929363964.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045134651967132147.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045134774482977107.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045134999033147649.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045135231745728916.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045135674244735060.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045138479948915078.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045139247947227189.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045139466164019545.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045139846092444138.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045140705388159414.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045141270931136914.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045142699603272012.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045143117657952637.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045143289196925422.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045143388958171426.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045144543734177855.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045145356141506704.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045145433207382456.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045145506066927634.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045145752536535241.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045146116300370031.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045146324752888114.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045146938140426548.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045147505495568581.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045149004632359126.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045149904285421715.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045150416963256560.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045150431471362500.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045150585750769931.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045150636228891133.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045151254716850444.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045151978179764506.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045152846224527367.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045153535508025790.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045154367410413800.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045155262114259192.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045156544468095142.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045158565447434702.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045159006889496963.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045159014053388430.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045160176341410027.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045160693846978996.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045160925821325459.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045162376631320705.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045166791941411225.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045166989639885212.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045168585937436737.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045172271749210152.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045174291214504011.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045174625894551737.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045174645729399094.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045177219807433063.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045177602952831444.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045178057279902129.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045178678900912274.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045179741519667672.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045179849690464406.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045179964614656445.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045179989750870446.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045180447928533389.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045180648722149625.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045180805798928759.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045180818797043972.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045180906927738916.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045181003488969080.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045181234683547872.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045181707087954433.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045182017164460103.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045182794498728129.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045183395840557244.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045183560009605255.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045183966756696175.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045183969789108529.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045184268431683780.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045184571810132448.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045185535589900569.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045185668197069263.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045185691781365766.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045186303252414912.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045188351758594060.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045193824704610668.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045216642972430734.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045262059424628801.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045263017026494471.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045268568342765670.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045272680677736708.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045281214689341918.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045310284508860891.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045311431671947428.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045320721593774373.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045323358410031448.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045327027163591065.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045341687690531108.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045380851697946805.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045384275198087343.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045453318831431934.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045456939425870029.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045457438019633664.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045465117014237265.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045478539915628670.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045525450336743542.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045530191422705969.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045621098717364360.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045628259270832143.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045632787168821742.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045646256064643197.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045650228385136815.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045651310784209126.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045706412005720208.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045709923116564959.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045718208187908517.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045737997681734107.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045799554495213825.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045844170506391722.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045854218313994412.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045871173804646794.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045878465266700790.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045880418763776328.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045886568196714837.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045894021135122617.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045903053191082487.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045926300515267064.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045927296888959349.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045945205082194360.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045948971156120011.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045951153452564954.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045954775464747010.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2045956323632693676.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046018552008724762.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046024977762365620.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046034994016178678.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046133012866211856.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046142144964935870.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046143103963181135.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046145633191432575.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046161709765640543.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046173898195030158.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046191984184832160.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046229261611122811.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046233734374916125.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046233735926870401.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046234038097097045.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046236261933887668.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046238463620501525.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046247477058080951.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046248381555540038.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046251972395712960.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046256469566468211.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046263051519729997.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046264921000902853.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046267651001897087.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046271206874403015.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046278402244837572.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046298462392852931.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046325406664708411.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046332028795187380.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046342270647959913.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046345176168219090.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046347138733416901.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046363161402749057.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046371445580894632.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046378904496029723.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046381968686764174.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046388892715409896.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046393205902692468.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046394046713852237.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046395413402423788.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046395846757953595.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046421215376535802.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046424835996172659.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046453889445105776.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046473927493308557.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046486706262516035.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046497767447547978.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046506614560317594.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046533917256114488.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046547113446924778.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046549203522834842.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046549998737965068.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046550610099716577.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046552203351970278.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046559576259006707.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046561418204598664.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046562908285399484.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046564707356598703.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046565898706645291.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046566030781403231.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046567139101016463.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046568963987923112.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046573595472900559.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046574157526135069.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046575815307989434.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046576799895961978.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046578604704936111.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046580238910366083.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046581580072734870.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046582380710732249.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046586543238734175.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046589996472336506.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046591902493892952.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046593277139234968.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046598411789512848.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046601184744550711.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046603487971336511.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046605151545315615.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046605252250767422.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046608182508712145.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046610689666535893.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046618782056038597.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046619849976434782.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046622019941187771.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046622112132260185.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046622991438827948.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046623882052857928.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046628701433954731.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046630390757302671.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046633574514753778.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046638112722330047.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046638153566671194.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046638623194526053.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046639008391016467.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046639235474829577.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046639541792997576.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046640498916708617.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046641570234163460.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046644130671960457.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046644447790924187.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046644760387977228.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046647550057611739.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046648185796370782.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046651652174754105.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046651948384862473.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046652115922096257.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046653396032131225.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046653697132773561.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046654713081303548.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046654990656451068.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046657066627203536.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046657389945090386.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046658101491720642.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046659390871126135.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046659752806191603.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046660050840879509.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046661093188374915.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046661120736309316.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046661373258510405.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046661853959598536.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046662785975922796.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046665192885666190.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046665927136043498.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046666009809949154.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046670734114849084.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046672763143012425.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046674078375776621.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046675604008063345.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046677036417069365.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046681897594675558.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046682037839397345.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046682606838657098.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046686350921912408.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046688711253901514.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046690392423256533.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046691700546904495.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046692020526199214.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046692344938852809.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046693152476860675.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046694045410640361.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046697856954671373.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046700274257944842.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046706431794012524.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046709223015547209.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046709928560357658.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046713838595154091.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046714829558128978.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046715836707049606.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046718176524894668.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046721111166189765.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046736494182772762.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046740858750513552.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046740954057515379.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046745061589963001.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046746053672595475.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046747314031820893.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046758576073703596.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046763792269287882.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046764416352354572.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046764939780735123.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046774529632940333.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046774612432982138.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046777178818331060.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046777925035266491.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046778460874358804.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046779042792124721.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046780190450466858.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046804597898129804.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046807425400148033.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046808483908247843.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046811080349909301.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046811939049767202.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046815325488894339.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046827611159159093.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046838074634862888.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046839347761254759.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046844048351076728.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046847585282101533.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046848350444544212.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046852823531270214.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046858353976955081.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046858724367888407.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046858753815839117.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046859259116142850.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046859890430202002.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046859895362777365.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046863862646083947.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046870259039195517.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046880915184615757.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046881437895250009.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046882791011623293.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046892211418353796.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046892291332162028.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046895116154003675.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046895537211986264.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046895941823668649.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046902631227154634.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046913706605637897.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046913773370216485.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046915384524116135.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046919170642600388.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046923886760202449.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046926409487036473.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046927061369938353.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046931928226594903.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046933827033956551.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046935380688023814.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046937378921840676.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046942196645974371.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046950261860528362.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046950778812715373.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046951078193664119.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046952563124077027.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046953560840065213.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046955093254197487.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046955533882544302.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046956424509435961.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046957451803541549.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046958944178798991.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046964720662700208.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046965045863580150.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046965623234928868.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046970460441870619.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046973222604997045.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046979003790049522.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046979438475141552.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046979696521519225.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046980674402357530.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046986202671116388.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046987177163141338.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046988203165401106.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046988271725482398.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046988588076634133.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046990698574991519.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046991950067507599.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046992102303633889.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046992567300960287.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046992737501597698.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046994829633372423.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046996260528292067.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046997040899469628.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046997632929677599.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046998693245837362.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2046999031411576981.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047000006243053672.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047000487208083890.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047002076543135803.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047002942658453916.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047004229529997566.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047004905764979041.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047004991492133322.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047005090309882094.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047012923642446286.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047013016114212975.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047013895638823000.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047014121581797724.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047014209909924277.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047015083272765649.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047016333129515011.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047016641532252373.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047019420753756438.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047024232756859198.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047025553312768269.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047031433919664171.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047035236228190340.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047035267417022961.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047037358067929475.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047037956687368343.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047038982446584046.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047039228509303216.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047039729049256255.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047048929603113272.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047053696177930721.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047055494313836743.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047058893881356585.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047061013124505663.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047062739475206383.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047065635700519278.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047069181305344444.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047071127797719490.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047071645597405362.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047071646335574428.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047072394343305470.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047074228042907672.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047092997389742348.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047104242201289149.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047105066096807967.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047105678855041133.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047106223980347715.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047106776986771908.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047109318873399388.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047110870694592930.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047117036132983051.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047117814679458077.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047118658938564621.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047118925725397269.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047119120102043775.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047122128923951476.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047134404942950755.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047138288771977580.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047140904478409130.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047142267362725918.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047148507920748749.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047178797619814443.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047181481328709793.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047201510388613264.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047205571288273084.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047213835048653278.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047223224987971874.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047226820093981066.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047235976385396742.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047240853366997494.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047250307885719632.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047253198834893071.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047254953602015530.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047259004896735734.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047264092721738060.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047269506855182701.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047269607728140663.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047270750164492555.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047272034808320277.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047277089104023733.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047278856386593280.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047282289013608495.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047289858180165796.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047317504364515693.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047321454153179519.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047326979540627886.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047330426294067381.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047336342787395803.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047338455915733253.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047339584233554419.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047342433017446444.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047345339309625422.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047352274461045244.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047355833223139490.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047359007195623860.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047359682642321451.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047361336674275792.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047362486492369035.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047365076714401993.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047365262689653044.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047370837934981317.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047371195926946227.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047374128877810115.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047376898762694897.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047379283614867826.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047382788236840962.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047383220019204199.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047383713709691293.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047383758731370707.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047384774302667182.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047386859630915724.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047389080695328842.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047390467700981969.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047390568272052558.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047391298827812867.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047391922092712178.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047393080764989674.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047393600804167832.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047393984960757975.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047394723615191461.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047395019049562324.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047396737334309208.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047396765645635915.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047397392215880075.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047398030425706733.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047400916400341040.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047401662768181258.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047402504929903027.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047403471570194857.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047403654550831423.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047403817122058425.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047404781489266947.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047405833114251485.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047407649063407937.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047407910670524637.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047409326067732832.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047409792101318896.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047410594555580916.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047412033549635618.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047413283544514966.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047415145907777824.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047426543433990537.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047431940043575618.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047440045217648711.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047442659912868078.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047450380393721896.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047450665786524035.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047473093048709210.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047475996031377646.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047478866776920494.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047488443333370267.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047499113944564046.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047506919837810839.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047548339693002773.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047549034206990341.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047554661314666832.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047562261779349575.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047564976643092570.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047576197568037227.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047593991726616957.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047604702012199220.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047609684664934623.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047621792647516634.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047626880656843044.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047630315540107408.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047643854350782970.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047646690220372373.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047652393584574735.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047655390058361230.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047663691383054408.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047670789760282968.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047670838766579757.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047671254916927873.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047671446856696170.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047672170198020569.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047673752284995672.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047683360332410880.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047683382939627584.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047686485382767077.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047687306547716484.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047693387038355861.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047695222121865258.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047697940588937677.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047698365622698456.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047700843965689904.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047701712199188828.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047708999231918415.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047713817660985430.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047728659797025041.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047732300750938301.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047742727203467483.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047747591656632586.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047748012819067131.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047748358983274887.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047749293017076115.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047752132217155631.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047752934382014562.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047754140705870025.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047754977662177556.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047755173305757721.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047755809891688698.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047757599194431660.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047764663035986009.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047769366650052800.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047770030348419270.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047780910364582115.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047784008742801912.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047784935314858373.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047788374736732232.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047790414397047245.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047796977128374524.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047800391090278437.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047805235070894590.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047808952667144351.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047812838157328514.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047813961714700686.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047815603105231185.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047824780980851007.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047827933784416401.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047840469439156714.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047849062993379661.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047854444117717489.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047861698728804837.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047869557877174735.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047870963895980032.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047897548220969030.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047898197755105521.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047909506906988628.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047925825534632298.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047926524494377295.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047932675181236629.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047932700711956712.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047933250161856926.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047938521550278709.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047939001479278912.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047947584921030949.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047950360002642189.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047953634575679565.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047955046751785046.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047955713931067857.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047986974703681741.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047994353142890835.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2047996842839851127.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048006940211458316.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048009039129276470.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048015658604961955.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048016696972353750.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048021813545009407.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048025596786323457.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048030725010591762.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048032806429688104.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048034310981132781.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048036263505154515.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048038361479122964.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048045834420244623.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048046237929099351.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048046246892368208.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048050532896723098.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048052709723419034.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048053251971625332.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048055809368826278.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048055820990939501.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048057330646794353.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048057482749088227.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048057530543444048.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048058649403097155.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048059931744461200.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048062161235087383.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048066267827888530.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048067114183897189.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048067245767577723.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048068117830774997.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048068534106800339.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048069425727778910.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048070302815404175.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048072117598695522.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048073597105713274.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048074781908402653.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048076109174993201.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048079872099004687.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048081276117332259.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048081646767751239.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048082605221028035.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048084517546573943.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048085092631814408.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048087735135572029.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048090811339002314.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048093735117000889.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048093745980244284.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048099080824619421.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048100978264563863.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048101836008329461.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048103444393717773.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048106949665817078.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048107150619132148.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048107271591469269.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048108675676418496.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048111375130431870.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048111434660495650.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048113502792057211.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048118717326745769.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048119388390461670.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048119482221027624.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048121340914528385.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048121681336574160.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048122261455187969.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048126741944611327.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048129375758127530.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048130296168493363.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048131504505508275.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048131882404233372.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048133444048421104.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048137391207014828.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048137582253310210.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048143118420054518.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048143190763430021.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048143242164871421.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048143628321636467.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048143634751512697.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048146883697140014.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048147024743465063.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048149889620578517.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048156083080806712.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048158807637864833.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048160563805782214.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048162359458353312.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048171140707975549.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048172148280221731.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048173929517453416.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048181452903534818.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048183203182309792.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048191657917722986.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048199320017797482.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048199555838017732.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048200485317103726.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048207000001986657.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048210259425317256.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048228838275256482.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048231535334084745.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048238460453171698.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048239657159479783.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048279303977386131.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048280554282569905.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048289564716909009.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048295197004427482.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048295937877913884.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048300252726198588.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048301214538879400.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048308576943235310.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048313961767162334.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048314091232547225.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048314106420068802.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048321368333357347.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048324919134744886.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048325623500947654.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048327038268789216.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048327663148769449.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048333453813514453.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048338738879631440.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048340330873840047.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048346160507609301.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048353442515624379.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048365485935165595.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048365682392248431.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048366003617173659.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048374259257344450.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048375645139587535.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048376992060293546.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048381297295241284.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048381872443433371.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048384076479127830.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048385242709262492.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048386725727375843.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048393588804034593.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048396043323355303.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048402431873302656.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048404653998477333.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048406169442562407.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048407131825783067.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048407762976072111.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048408839385424288.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048425099083334087.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048425323168174117.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048434388371701983.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048438974138704072.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048442703126335971.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048445927732699580.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048446782690992152.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048448521364546016.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048451022755106994.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048458328125419539.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048460579065745651.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048461354882015242.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048467544491630867.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048468471835394514.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048472853289357475.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048474625655648713.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048477209359532444.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048488342615134687.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048489558304841872.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048494873632743657.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048496102266028235.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048497864913895471.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048499343116693944.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048503105856151903.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048507203267502464.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048509127878455689.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048521321806717341.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048528861781008663.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048537588051419208.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048540094886522951.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048546343317069946.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048547452417196087.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048551450532286912.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048557741661434249.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048562858141892866.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048563638408216955.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048573900209246443.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048579506911228026.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048579620564598852.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048584332672200839.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048588358390325753.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048593172423495858.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048600538158354671.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048602483350458692.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048612763912511877.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048613789340188783.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048620972471927104.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048635321483747526.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048641889440612617.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048643528688103730.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048645176231370877.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048647654062587909.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048647960137724281.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048649637255688628.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048654423228850291.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048654643081744797.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048662178207838663.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048663316562575524.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048663817924542875.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048668450969518512.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048668712199422118.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048670145598439903.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048674569305653487.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048677465795473468.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048678283605151794.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048680298448097668.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048680538840633391.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048681132904919250.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048694772076847570.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048694978168381700.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048695287938470074.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048696289286615042.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048700709571346718.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048709928647344633.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048710293568811134.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048711128012689862.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048716794630926726.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048721706743669230.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048722989122801714.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048725225781739746.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048726332910256448.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048726928686010549.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048728616209420510.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048729180729155873.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048734714517696540.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048742490568593708.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048748443687141599.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048749168164806972.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048754832652251160.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048757122712695090.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048760717889962123.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048767441421881708.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048771812654211494.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048783738973061497.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048787809897521208.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048788620723593426.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048794358732787732.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048796160815489103.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048802467320680497.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048805374593990876.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048810082461233166.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048813809205162051.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048817604832202905.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048818004968767810.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048818783918100964.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048819911363866949.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048819968066601137.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048820944366690678.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048826987599347919.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048827884567945709.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048828160398049583.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048828220884017394.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048828240018407491.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048828259060593030.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048830495220264989.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048836173578064261.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048842095763554493.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048842708383351245.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048843228292743422.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048845254481346836.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048848405376430129.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048856107787927748.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048861027249651995.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048861061684548094.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048861390262202729.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048861497808322763.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048861999115673700.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048862167915503949.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048862226497552644.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048862253638692915.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048862555251069363.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048862632174563586.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048862665540501975.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048862818175443305.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048862900371038231.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048863046810923493.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048863181079027871.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048863191980179596.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048863218584482119.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048863270937772258.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048863315871293877.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048863336180126014.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048863550471540843.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048863802750374390.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048864126428921906.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048864207743910132.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048864228614779183.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048864451542090083.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048864557435936969.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048864769998725386.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048864921954213989.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048865031790514606.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048865095837499854.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048865202947682391.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048865368886685904.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048865742603604443.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048865906802016484.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048866240945377415.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048866348626055398.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048866350328692925.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048866431530319999.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048866537897939337.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048866579103027336.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048866585159319775.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048866642038505506.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048866743200911603.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048866790344896636.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048866818828419200.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048866849765351690.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048866862159601916.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048866930660970945.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048866939624444076.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048867128061874545.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048867186307936550.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048867198861824294.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048867269246431579.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048867279757340851.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048867374380499007.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048867429317804319.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048867432173879390.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048867533659181168.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048867559760437416.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048867604736176454.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048867623966773529.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048867820474073565.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048867875369230579.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048867948442329449.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048868063194526127.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048868167381057881.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048868253045321759.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048868436340879402.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048868520784769210.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048868582214304145.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048868589256556919.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048868591747956962.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048868676326359088.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048868827450966192.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048868836019957787.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048868943092125790.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048868969210429866.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048868996490076665.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048869044476858527.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048869075925729395.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048869075992838272.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048869077540569423.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048869256750600629.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048869478507663542.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048869514914185687.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048869778022903947.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048869798981845261.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048869826332930494.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048869841075909062.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048869846553604489.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048869948982735121.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048870005064790136.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048870043975385528.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048870051478921256.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048870102984974413.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048870174153981978.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048870249714589982.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048870287299555592.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048870455700750498.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048870556431192354.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048870607580987646.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048870725361205507.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048870787080204546.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048870817619145101.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048870909222785199.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048870920689971362.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048871059177242889.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048871108032561645.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048871109613801633.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048871177616032053.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048871390820913221.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048871607444160652.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048871756060921864.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048871764030115992.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048871805348143154.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048871823966970167.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048871845722571242.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048871892623471071.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048871926169567260.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048872021476417658.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048872171494428714.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048872172249305595.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048872201827295674.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048872235620794671.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048872303446884659.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048872338771308862.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048872400733839511.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048872539481412070.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048872607177400476.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048872777457836193.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048872964100112624.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048873042911396286.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048873218170314835.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048873252328530178.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048873419249426506.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048873586908123537.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048873686325764591.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048873734854066407.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048873768559468828.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048873880769442103.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874134567031087.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874235783762001.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874238560379010.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874279215788125.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874343758000414.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874490633843014.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874499949404480.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874594614837648.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874596254797842.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874630073438406.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874738345283589.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874752031220159.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874836483563938.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874851390427402.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874952430919744.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048874968084050044.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048875116688269400.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048875152935465139.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048875350587822147.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048875352068428159.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048875364789768565.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048875367134376194.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048875589361193052.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048875732827283609.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048875787038720374.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048875815056646244.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048875823877202396.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048875837080932391.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048875841359372406.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048876045021938157.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048876145928716553.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048876176534339874.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048876180523389067.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048876240199725557.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048876304083124391.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048876545243038009.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048876550494580877.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048876571650617391.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048876691078910085.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048876867529154642.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048877024299647099.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048877065764585916.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048877195402076661.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048877206621782277.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048877241577144749.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048877726161834209.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048877786794754493.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048877875982475590.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048877924908929279.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048878086918160791.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048878100939985073.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048878141423206814.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048878939146273256.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048879063151104340.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048879169862504464.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048879243916878223.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048879301660205131.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048879700676644883.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048880242870165911.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048880283013759423.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048880447300518362.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048880516951056548.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048880717837246828.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048881149791858848.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048881254519525591.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048881343258399022.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048881830288674854.txt
-C:\Users\juba839\OneDrive\1- isamm 2eme\sem2\1- subjects\RSI\project\corpus\2048882258002526376.txt
+C:\terrier\project\corpus\1652617266230337536.txt
+C:\terrier\project\corpus\1714576992375636079.txt
+C:\terrier\project\corpus\1714596850425069780.txt
+C:\terrier\project\corpus\1714597120194523345.txt
+C:\terrier\project\corpus\1714597635330289838.txt
+C:\terrier\project\corpus\1714603173564867057.txt
+C:\terrier\project\corpus\1714617898910535688.txt
+C:\terrier\project\corpus\1714625914762637814.txt
+C:\terrier\project\corpus\1714638175203639580.txt
+C:\terrier\project\corpus\1714656469994328436.txt
+C:\terrier\project\corpus\1714682731727110312.txt
+C:\terrier\project\corpus\1714694821808349462.txt
+C:\terrier\project\corpus\1714787250653864447.txt
+C:\terrier\project\corpus\1714809595518951714.txt
+C:\terrier\project\corpus\1714832849294217325.txt
+C:\terrier\project\corpus\1714914282863722667.txt
+C:\terrier\project\corpus\1714917143060586813.txt
+C:\terrier\project\corpus\1714920505474695241.txt
+C:\terrier\project\corpus\1715080374684901696.txt
+C:\terrier\project\corpus\1716598602565402807.txt
+C:\terrier\project\corpus\1723793342536798698.txt
+C:\terrier\project\corpus\1724462743644762434.txt
+C:\terrier\project\corpus\1725565045013135834.txt
+C:\terrier\project\corpus\1779276643686597087.txt
+C:\terrier\project\corpus\1808847987973439820.txt
+C:\terrier\project\corpus\1816430397665759740.txt
+C:\terrier\project\corpus\1819366242752381169.txt
+C:\terrier\project\corpus\1820093669862686998.txt
+C:\terrier\project\corpus\1821946440345637171.txt
+C:\terrier\project\corpus\1822989553084367168.txt
+C:\terrier\project\corpus\1826552257242145274.txt
+C:\terrier\project\corpus\1828160102756450657.txt
+C:\terrier\project\corpus\1832320507984687179.txt
+C:\terrier\project\corpus\1832475167920124109.txt
+C:\terrier\project\corpus\1833874052949131460.txt
+C:\terrier\project\corpus\1838754586217054590.txt
+C:\terrier\project\corpus\1841201920490553354.txt
+C:\terrier\project\corpus\1841309630070448559.txt
+C:\terrier\project\corpus\1841506887667163575.txt
+C:\terrier\project\corpus\1841531089292296320.txt
+C:\terrier\project\corpus\1841539367812108669.txt
+C:\terrier\project\corpus\1841542417297899750.txt
+C:\terrier\project\corpus\1841543081117594062.txt
+C:\terrier\project\corpus\1841543875489628409.txt
+C:\terrier\project\corpus\1841926592878051440.txt
+C:\terrier\project\corpus\1841961548291465598.txt
+C:\terrier\project\corpus\1842067124048523373.txt
+C:\terrier\project\corpus\1842154662150934774.txt
+C:\terrier\project\corpus\1842173797828370590.txt
+C:\terrier\project\corpus\1842213594169008482.txt
+C:\terrier\project\corpus\1842248316807176363.txt
+C:\terrier\project\corpus\1842455933173280937.txt
+C:\terrier\project\corpus\1843048588709945741.txt
+C:\terrier\project\corpus\1843300174158033322.txt
+C:\terrier\project\corpus\1843339738725433694.txt
+C:\terrier\project\corpus\1843665749245866065.txt
+C:\terrier\project\corpus\1843666764456206552.txt
+C:\terrier\project\corpus\1843702204722753968.txt
+C:\terrier\project\corpus\1844028835995832450.txt
+C:\terrier\project\corpus\1845767534416416962.txt
+C:\terrier\project\corpus\1846934452703821939.txt
+C:\terrier\project\corpus\1847672640099496346.txt
+C:\terrier\project\corpus\1847703021439815733.txt
+C:\terrier\project\corpus\1848063417531449709.txt
+C:\terrier\project\corpus\1848231605782949908.txt
+C:\terrier\project\corpus\1849058189402357765.txt
+C:\terrier\project\corpus\1849118587266433230.txt
+C:\terrier\project\corpus\1849179446999482455.txt
+C:\terrier\project\corpus\1850018526729281995.txt
+C:\terrier\project\corpus\1850226636362522883.txt
+C:\terrier\project\corpus\1850490823873298639.txt
+C:\terrier\project\corpus\1850550295387849065.txt
+C:\terrier\project\corpus\1850575486625124672.txt
+C:\terrier\project\corpus\1850758670176378956.txt
+C:\terrier\project\corpus\1850948295696531613.txt
+C:\terrier\project\corpus\1851088379087118605.txt
+C:\terrier\project\corpus\1851722418638798923.txt
+C:\terrier\project\corpus\1851879157862387912.txt
+C:\terrier\project\corpus\1851897289595318783.txt
+C:\terrier\project\corpus\1853171278972403867.txt
+C:\terrier\project\corpus\1854226698897903725.txt
+C:\terrier\project\corpus\1856766388846711205.txt
+C:\terrier\project\corpus\1860377407829512413.txt
+C:\terrier\project\corpus\1860663780499140834.txt
+C:\terrier\project\corpus\1862935457606062359.txt
+C:\terrier\project\corpus\1863843754454454470.txt
+C:\terrier\project\corpus\1865390070032646220.txt
+C:\terrier\project\corpus\1866249346804818144.txt
+C:\terrier\project\corpus\1867254998335136038.txt
+C:\terrier\project\corpus\1870715908827615267.txt
+C:\terrier\project\corpus\1873141907020283912.txt
+C:\terrier\project\corpus\1873780608737964403.txt
+C:\terrier\project\corpus\1874527860947558504.txt
+C:\terrier\project\corpus\1890374471963336805.txt
+C:\terrier\project\corpus\1900249308940906930.txt
+C:\terrier\project\corpus\1900370580538290195.txt
+C:\terrier\project\corpus\1906340705770864714.txt
+C:\terrier\project\corpus\1906744935316955145.txt
+C:\terrier\project\corpus\1913933359056666637.txt
+C:\terrier\project\corpus\1915913237545320500.txt
+C:\terrier\project\corpus\1916183423061807600.txt
+C:\terrier\project\corpus\1916990912267194461.txt
+C:\terrier\project\corpus\1917738485068243249.txt
+C:\terrier\project\corpus\1918037862982840427.txt
+C:\terrier\project\corpus\1922387841704722456.txt
+C:\terrier\project\corpus\1924347769172496806.txt
+C:\terrier\project\corpus\1925333777284272443.txt
+C:\terrier\project\corpus\1928009591964545390.txt
+C:\terrier\project\corpus\1928645845064495528.txt
+C:\terrier\project\corpus\1928647145608958295.txt
+C:\terrier\project\corpus\1928881620947263690.txt
+C:\terrier\project\corpus\1929531733810053619.txt
+C:\terrier\project\corpus\1929552751849087315.txt
+C:\terrier\project\corpus\1930135607814070663.txt
+C:\terrier\project\corpus\1931126727968776374.txt
+C:\terrier\project\corpus\1932917276682182946.txt
+C:\terrier\project\corpus\1933071081385976206.txt
+C:\terrier\project\corpus\1933377985283043364.txt
+C:\terrier\project\corpus\1933624929146319153.txt
+C:\terrier\project\corpus\1933631923470872734.txt
+C:\terrier\project\corpus\1933634371430592864.txt
+C:\terrier\project\corpus\1933758872864301561.txt
+C:\terrier\project\corpus\1933781354954551464.txt
+C:\terrier\project\corpus\1933807429126345011.txt
+C:\terrier\project\corpus\1933843108980265378.txt
+C:\terrier\project\corpus\1933859267422888073.txt
+C:\terrier\project\corpus\1933877386778669521.txt
+C:\terrier\project\corpus\1934024124676096318.txt
+C:\terrier\project\corpus\1934059444138303581.txt
+C:\terrier\project\corpus\1934181816602141136.txt
+C:\terrier\project\corpus\1934252005893251207.txt
+C:\terrier\project\corpus\1934644930758213759.txt
+C:\terrier\project\corpus\1934880300389335179.txt
+C:\terrier\project\corpus\1934958751733162275.txt
+C:\terrier\project\corpus\1935030218672275634.txt
+C:\terrier\project\corpus\1935048681142747412.txt
+C:\terrier\project\corpus\1935146841613427124.txt
+C:\terrier\project\corpus\1935291629721764126.txt
+C:\terrier\project\corpus\1935292405785518424.txt
+C:\terrier\project\corpus\1935451943360479269.txt
+C:\terrier\project\corpus\1935655531315868154.txt
+C:\terrier\project\corpus\1935667015382937624.txt
+C:\terrier\project\corpus\1936484813613191303.txt
+C:\terrier\project\corpus\1936600833225076779.txt
+C:\terrier\project\corpus\1936665024212447271.txt
+C:\terrier\project\corpus\1936790276540178516.txt
+C:\terrier\project\corpus\1936850868655022452.txt
+C:\terrier\project\corpus\1936924624799039922.txt
+C:\terrier\project\corpus\1937091808774803843.txt
+C:\terrier\project\corpus\1937168786735652998.txt
+C:\terrier\project\corpus\1937191397657821586.txt
+C:\terrier\project\corpus\1937280338733982195.txt
+C:\terrier\project\corpus\1937496710059565219.txt
+C:\terrier\project\corpus\1937496798362501452.txt
+C:\terrier\project\corpus\1938209610135179589.txt
+C:\terrier\project\corpus\1938286876441370951.txt
+C:\terrier\project\corpus\1938512725446980059.txt
+C:\terrier\project\corpus\1938574104220549315.txt
+C:\terrier\project\corpus\1938659565685379157.txt
+C:\terrier\project\corpus\1938661088037327319.txt
+C:\terrier\project\corpus\1938685882661511483.txt
+C:\terrier\project\corpus\1938704128680607904.txt
+C:\terrier\project\corpus\1939039585042084105.txt
+C:\terrier\project\corpus\1943973206089404589.txt
+C:\terrier\project\corpus\1944823316537016802.txt
+C:\terrier\project\corpus\1945475908564865431.txt
+C:\terrier\project\corpus\1945480500862455979.txt
+C:\terrier\project\corpus\1945496721301090755.txt
+C:\terrier\project\corpus\1946292278231752836.txt
+C:\terrier\project\corpus\1947253828958470628.txt
+C:\terrier\project\corpus\1947255045831135434.txt
+C:\terrier\project\corpus\1947277941596967035.txt
+C:\terrier\project\corpus\1947303047635566950.txt
+C:\terrier\project\corpus\1947307158577741825.txt
+C:\terrier\project\corpus\1947386541304680897.txt
+C:\terrier\project\corpus\1947387409080938808.txt
+C:\terrier\project\corpus\1947430825571815503.txt
+C:\terrier\project\corpus\1947514900772982860.txt
+C:\terrier\project\corpus\1948789643140296781.txt
+C:\terrier\project\corpus\1950134917829890547.txt
+C:\terrier\project\corpus\1951642959226523825.txt
+C:\terrier\project\corpus\1954519335281496426.txt
+C:\terrier\project\corpus\1960347885553488240.txt
+C:\terrier\project\corpus\1960704765941146001.txt
+C:\terrier\project\corpus\1961155559517831648.txt
+C:\terrier\project\corpus\1963237063429337106.txt
+C:\terrier\project\corpus\1965640183014912482.txt
+C:\terrier\project\corpus\1972204279491342815.txt
+C:\terrier\project\corpus\1972242675052265709.txt
+C:\terrier\project\corpus\1972346397333831711.txt
+C:\terrier\project\corpus\1974580287397933234.txt
+C:\terrier\project\corpus\1975208343934488892.txt
+C:\terrier\project\corpus\1980287086055018876.txt
+C:\terrier\project\corpus\1981352441678565834.txt
+C:\terrier\project\corpus\1984196797049225597.txt
+C:\terrier\project\corpus\1990206036247015562.txt
+C:\terrier\project\corpus\1994101846567231576.txt
+C:\terrier\project\corpus\1994105793843458475.txt
+C:\terrier\project\corpus\1994119709793624398.txt
+C:\terrier\project\corpus\1994192010425594367.txt
+C:\terrier\project\corpus\1997356033321132401.txt
+C:\terrier\project\corpus\2002406778579861827.txt
+C:\terrier\project\corpus\2006962091991904333.txt
+C:\terrier\project\corpus\2007836938393502149.txt
+C:\terrier\project\corpus\2011588435195085209.txt
+C:\terrier\project\corpus\2012119808247300132.txt
+C:\terrier\project\corpus\2012151160262582715.txt
+C:\terrier\project\corpus\2012611071631069271.txt
+C:\terrier\project\corpus\2014297714532520030.txt
+C:\terrier\project\corpus\2014331726869246354.txt
+C:\terrier\project\corpus\2014750295176491228.txt
+C:\terrier\project\corpus\2014756774889308205.txt
+C:\terrier\project\corpus\2014816371100578139.txt
+C:\terrier\project\corpus\2015337785000153258.txt
+C:\terrier\project\corpus\2015818046351278454.txt
+C:\terrier\project\corpus\2016487758034796891.txt
+C:\terrier\project\corpus\2016504995714396639.txt
+C:\terrier\project\corpus\2016506955494240575.txt
+C:\terrier\project\corpus\2016536382521438325.txt
+C:\terrier\project\corpus\2016656806647419384.txt
+C:\terrier\project\corpus\2016893034512687533.txt
+C:\terrier\project\corpus\2016895598029656493.txt
+C:\terrier\project\corpus\2016924404110737805.txt
+C:\terrier\project\corpus\2016937550007664811.txt
+C:\terrier\project\corpus\2017040083283501420.txt
+C:\terrier\project\corpus\2017133169082863969.txt
+C:\terrier\project\corpus\2017161637883486218.txt
+C:\terrier\project\corpus\2017932621334888657.txt
+C:\terrier\project\corpus\2018016299041902659.txt
+C:\terrier\project\corpus\2018438137471435222.txt
+C:\terrier\project\corpus\2018631959778336916.txt
+C:\terrier\project\corpus\2018814290568884626.txt
+C:\terrier\project\corpus\2018824231119896590.txt
+C:\terrier\project\corpus\2018978587957989848.txt
+C:\terrier\project\corpus\2019107816707899799.txt
+C:\terrier\project\corpus\2019791359498920260.txt
+C:\terrier\project\corpus\2019794248233570718.txt
+C:\terrier\project\corpus\2020463779293634874.txt
+C:\terrier\project\corpus\2020573346124140545.txt
+C:\terrier\project\corpus\2022681222506488265.txt
+C:\terrier\project\corpus\2022807460583489879.txt
+C:\terrier\project\corpus\2022839526369157596.txt
+C:\terrier\project\corpus\2023739392066556120.txt
+C:\terrier\project\corpus\2023808410979103086.txt
+C:\terrier\project\corpus\2023929459003342954.txt
+C:\terrier\project\corpus\2024152743003488301.txt
+C:\terrier\project\corpus\2024204479050973419.txt
+C:\terrier\project\corpus\2024453604128522410.txt
+C:\terrier\project\corpus\2024500690027208943.txt
+C:\terrier\project\corpus\2024792429602410550.txt
+C:\terrier\project\corpus\2025195552124678411.txt
+C:\terrier\project\corpus\2025451826724712953.txt
+C:\terrier\project\corpus\2025857964628722051.txt
+C:\terrier\project\corpus\2026533579027611847.txt
+C:\terrier\project\corpus\2026553290209841585.txt
+C:\terrier\project\corpus\2026841349144658351.txt
+C:\terrier\project\corpus\2027156458081792185.txt
+C:\terrier\project\corpus\2027664141880860894.txt
+C:\terrier\project\corpus\2027673156136407536.txt
+C:\terrier\project\corpus\2027690712213401732.txt
+C:\terrier\project\corpus\2027691404617785640.txt
+C:\terrier\project\corpus\2027692141816725545.txt
+C:\terrier\project\corpus\2027700084624814585.txt
+C:\terrier\project\corpus\2027703768276475958.txt
+C:\terrier\project\corpus\2027703830788383048.txt
+C:\terrier\project\corpus\2027704187673276537.txt
+C:\terrier\project\corpus\2027712646057787443.txt
+C:\terrier\project\corpus\2027720972309340330.txt
+C:\terrier\project\corpus\2027734590459105538.txt
+C:\terrier\project\corpus\2027735076533153826.txt
+C:\terrier\project\corpus\2027738419506385392.txt
+C:\terrier\project\corpus\2027738735824044501.txt
+C:\terrier\project\corpus\2027747977176007017.txt
+C:\terrier\project\corpus\2027750686197526574.txt
+C:\terrier\project\corpus\2027770360075075604.txt
+C:\terrier\project\corpus\2027772720734474741.txt
+C:\terrier\project\corpus\2027774409100914831.txt
+C:\terrier\project\corpus\2027800204225749004.txt
+C:\terrier\project\corpus\2027817530560041256.txt
+C:\terrier\project\corpus\2027820381554327728.txt
+C:\terrier\project\corpus\2027821323104489833.txt
+C:\terrier\project\corpus\2027836756066779496.txt
+C:\terrier\project\corpus\2027963709419884746.txt
+C:\terrier\project\corpus\2028032456973304110.txt
+C:\terrier\project\corpus\2028168447515828293.txt
+C:\terrier\project\corpus\2028181352357802241.txt
+C:\terrier\project\corpus\2028252554543485174.txt
+C:\terrier\project\corpus\2028272290475999405.txt
+C:\terrier\project\corpus\2028279976378716256.txt
+C:\terrier\project\corpus\2028290356165632124.txt
+C:\terrier\project\corpus\2028301122587508898.txt
+C:\terrier\project\corpus\2028305948780253626.txt
+C:\terrier\project\corpus\2028315855210082779.txt
+C:\terrier\project\corpus\2028355906837061645.txt
+C:\terrier\project\corpus\2028401891827429598.txt
+C:\terrier\project\corpus\2028420681340211294.txt
+C:\terrier\project\corpus\2028505430029218222.txt
+C:\terrier\project\corpus\2028524423696032098.txt
+C:\terrier\project\corpus\2028640658672501100.txt
+C:\terrier\project\corpus\2028667650050826446.txt
+C:\terrier\project\corpus\2028814319601811754.txt
+C:\terrier\project\corpus\2028825268551336375.txt
+C:\terrier\project\corpus\2028830100486005088.txt
+C:\terrier\project\corpus\2028843116623519871.txt
+C:\terrier\project\corpus\2028901108966740196.txt
+C:\terrier\project\corpus\2028901311350227130.txt
+C:\terrier\project\corpus\2028968010401112477.txt
+C:\terrier\project\corpus\2028994965246824721.txt
+C:\terrier\project\corpus\2029094622061097322.txt
+C:\terrier\project\corpus\2029274741144514981.txt
+C:\terrier\project\corpus\2029277509796413886.txt
+C:\terrier\project\corpus\2029336641756635523.txt
+C:\terrier\project\corpus\2029353058178601343.txt
+C:\terrier\project\corpus\2029550245026423186.txt
+C:\terrier\project\corpus\2029596279592845787.txt
+C:\terrier\project\corpus\2029674818270851225.txt
+C:\terrier\project\corpus\2029716665466778008.txt
+C:\terrier\project\corpus\2029717159853891755.txt
+C:\terrier\project\corpus\2029738107889762388.txt
+C:\terrier\project\corpus\2029846824194904295.txt
+C:\terrier\project\corpus\2029890768882540546.txt
+C:\terrier\project\corpus\2029940246251495557.txt
+C:\terrier\project\corpus\2029954636577214526.txt
+C:\terrier\project\corpus\2029989926641488224.txt
+C:\terrier\project\corpus\2030007531775610952.txt
+C:\terrier\project\corpus\2030018564036423995.txt
+C:\terrier\project\corpus\2030033507754680461.txt
+C:\terrier\project\corpus\2030090365664121126.txt
+C:\terrier\project\corpus\2030155632100417576.txt
+C:\terrier\project\corpus\2030224566019121568.txt
+C:\terrier\project\corpus\2030329259902808452.txt
+C:\terrier\project\corpus\2030363976924545409.txt
+C:\terrier\project\corpus\2030368252384120997.txt
+C:\terrier\project\corpus\2030371713943245191.txt
+C:\terrier\project\corpus\2030373201151442981.txt
+C:\terrier\project\corpus\2030375243551010841.txt
+C:\terrier\project\corpus\2030377594802057380.txt
+C:\terrier\project\corpus\2030378846206218392.txt
+C:\terrier\project\corpus\2030395820680298844.txt
+C:\terrier\project\corpus\2030420890270515558.txt
+C:\terrier\project\corpus\2030463823069516071.txt
+C:\terrier\project\corpus\2030631265330757701.txt
+C:\terrier\project\corpus\2030636631758188773.txt
+C:\terrier\project\corpus\2030659811931754633.txt
+C:\terrier\project\corpus\2030676892978643452.txt
+C:\terrier\project\corpus\2030741573902991501.txt
+C:\terrier\project\corpus\2030746505104200040.txt
+C:\terrier\project\corpus\2030821412131467537.txt
+C:\terrier\project\corpus\2030923910649086109.txt
+C:\terrier\project\corpus\2030967188664783315.txt
+C:\terrier\project\corpus\2030971802059501604.txt
+C:\terrier\project\corpus\2031021657121505622.txt
+C:\terrier\project\corpus\2031039937450279267.txt
+C:\terrier\project\corpus\2031177690204790988.txt
+C:\terrier\project\corpus\2031247080501440648.txt
+C:\terrier\project\corpus\2031288704984035444.txt
+C:\terrier\project\corpus\2031305810039763131.txt
+C:\terrier\project\corpus\2031328719156163034.txt
+C:\terrier\project\corpus\2031334743912927462.txt
+C:\terrier\project\corpus\2031365049789333585.txt
+C:\terrier\project\corpus\2031381940893270303.txt
+C:\terrier\project\corpus\2031457774433919269.txt
+C:\terrier\project\corpus\2031470204241219673.txt
+C:\terrier\project\corpus\2031497801784594896.txt
+C:\terrier\project\corpus\2031519345298264120.txt
+C:\terrier\project\corpus\2031716160626905123.txt
+C:\terrier\project\corpus\2031837368852902011.txt
+C:\terrier\project\corpus\2031838554096333167.txt
+C:\terrier\project\corpus\2031840265162432709.txt
+C:\terrier\project\corpus\2031905602104856771.txt
+C:\terrier\project\corpus\2032091960664592554.txt
+C:\terrier\project\corpus\2032114436945645765.txt
+C:\terrier\project\corpus\2032120134286934312.txt
+C:\terrier\project\corpus\2032162209023856804.txt
+C:\terrier\project\corpus\2032194264177000924.txt
+C:\terrier\project\corpus\2032425171827540359.txt
+C:\terrier\project\corpus\2032452514520375609.txt
+C:\terrier\project\corpus\2032465903254986814.txt
+C:\terrier\project\corpus\2032495783161852035.txt
+C:\terrier\project\corpus\2032640558200483965.txt
+C:\terrier\project\corpus\2032657653063934095.txt
+C:\terrier\project\corpus\2032696529799323666.txt
+C:\terrier\project\corpus\2032727410039267788.txt
+C:\terrier\project\corpus\2032761532430561632.txt
+C:\terrier\project\corpus\2032778904671498598.txt
+C:\terrier\project\corpus\2032819990835954062.txt
+C:\terrier\project\corpus\2032824131473809620.txt
+C:\terrier\project\corpus\2032828238381162937.txt
+C:\terrier\project\corpus\2032940047394115958.txt
+C:\terrier\project\corpus\2033091070943166830.txt
+C:\terrier\project\corpus\2033144860669264190.txt
+C:\terrier\project\corpus\2033152984365027591.txt
+C:\terrier\project\corpus\2033191631386538322.txt
+C:\terrier\project\corpus\2033192516615323843.txt
+C:\terrier\project\corpus\2033223267507462375.txt
+C:\terrier\project\corpus\2033311843691741646.txt
+C:\terrier\project\corpus\2033372810907714017.txt
+C:\terrier\project\corpus\2033377447450964091.txt
+C:\terrier\project\corpus\2033422071846293859.txt
+C:\terrier\project\corpus\2033597398182748469.txt
+C:\terrier\project\corpus\2033654055461961758.txt
+C:\terrier\project\corpus\2033685430307016764.txt
+C:\terrier\project\corpus\2033686487901081629.txt
+C:\terrier\project\corpus\2033754639695548741.txt
+C:\terrier\project\corpus\2033996701229584686.txt
+C:\terrier\project\corpus\2034027743327772929.txt
+C:\terrier\project\corpus\2034028022253126090.txt
+C:\terrier\project\corpus\2034056484393521636.txt
+C:\terrier\project\corpus\2034083975275417883.txt
+C:\terrier\project\corpus\2034156982202994729.txt
+C:\terrier\project\corpus\2034211819070373907.txt
+C:\terrier\project\corpus\2034260649270734941.txt
+C:\terrier\project\corpus\2034285143792267609.txt
+C:\terrier\project\corpus\2034312521167876194.txt
+C:\terrier\project\corpus\2034317370953752673.txt
+C:\terrier\project\corpus\2034334640257859943.txt
+C:\terrier\project\corpus\2034353149658439898.txt
+C:\terrier\project\corpus\2034355747816095980.txt
+C:\terrier\project\corpus\2034399365217808493.txt
+C:\terrier\project\corpus\2034405300246376530.txt
+C:\terrier\project\corpus\2034413155271733601.txt
+C:\terrier\project\corpus\2034420909340274812.txt
+C:\terrier\project\corpus\2034462966674784401.txt
+C:\terrier\project\corpus\2034571715754254415.txt
+C:\terrier\project\corpus\2034579403686945225.txt
+C:\terrier\project\corpus\2034594264240488752.txt
+C:\terrier\project\corpus\2034624458149724583.txt
+C:\terrier\project\corpus\2034641668595409376.txt
+C:\terrier\project\corpus\2034645865785381329.txt
+C:\terrier\project\corpus\2034715992686043360.txt
+C:\terrier\project\corpus\2034814871582204142.txt
+C:\terrier\project\corpus\2034825989407076837.txt
+C:\terrier\project\corpus\2034836388324233281.txt
+C:\terrier\project\corpus\2034839485947478128.txt
+C:\terrier\project\corpus\2034854340335137218.txt
+C:\terrier\project\corpus\2034880867584057792.txt
+C:\terrier\project\corpus\2034882184406770102.txt
+C:\terrier\project\corpus\2035097316001034646.txt
+C:\terrier\project\corpus\2035098211954958403.txt
+C:\terrier\project\corpus\2035101892561231967.txt
+C:\terrier\project\corpus\2035174062436065533.txt
+C:\terrier\project\corpus\2035336784557605176.txt
+C:\terrier\project\corpus\2035346186144481521.txt
+C:\terrier\project\corpus\2035435362823413815.txt
+C:\terrier\project\corpus\2035455992243052795.txt
+C:\terrier\project\corpus\2035459700234596612.txt
+C:\terrier\project\corpus\2035462862164955557.txt
+C:\terrier\project\corpus\2035481320319848868.txt
+C:\terrier\project\corpus\2035533742094323760.txt
+C:\terrier\project\corpus\2035549636195442864.txt
+C:\terrier\project\corpus\2035551168508608701.txt
+C:\terrier\project\corpus\2035567751700300249.txt
+C:\terrier\project\corpus\2035587648945799381.txt
+C:\terrier\project\corpus\2035607926987980885.txt
+C:\terrier\project\corpus\2035660781258146249.txt
+C:\terrier\project\corpus\2035674476554469647.txt
+C:\terrier\project\corpus\2035679634218746200.txt
+C:\terrier\project\corpus\2035690822985793613.txt
+C:\terrier\project\corpus\2035736639469658513.txt
+C:\terrier\project\corpus\2035736886304723059.txt
+C:\terrier\project\corpus\2035754106757808314.txt
+C:\terrier\project\corpus\2035756878462861711.txt
+C:\terrier\project\corpus\2035849591845961746.txt
+C:\terrier\project\corpus\2035893718817902639.txt
+C:\terrier\project\corpus\2035916318826721765.txt
+C:\terrier\project\corpus\2035924851580391648.txt
+C:\terrier\project\corpus\2035934562728001594.txt
+C:\terrier\project\corpus\2035952139743166848.txt
+C:\terrier\project\corpus\2035987819181539426.txt
+C:\terrier\project\corpus\2036027055003881722.txt
+C:\terrier\project\corpus\2036081126448517350.txt
+C:\terrier\project\corpus\2036100542041084173.txt
+C:\terrier\project\corpus\2036101659756011700.txt
+C:\terrier\project\corpus\2036167688419156408.txt
+C:\terrier\project\corpus\2036189707474747686.txt
+C:\terrier\project\corpus\2036269205125824718.txt
+C:\terrier\project\corpus\2036273723724935319.txt
+C:\terrier\project\corpus\2036335133058281888.txt
+C:\terrier\project\corpus\2036373471920259439.txt
+C:\terrier\project\corpus\2036405397938942313.txt
+C:\terrier\project\corpus\2036405524703346715.txt
+C:\terrier\project\corpus\2036427898375053465.txt
+C:\terrier\project\corpus\2036429036164190434.txt
+C:\terrier\project\corpus\2036509363200774410.txt
+C:\terrier\project\corpus\2036550963004056040.txt
+C:\terrier\project\corpus\2036566404967833658.txt
+C:\terrier\project\corpus\2036607372353761763.txt
+C:\terrier\project\corpus\2036688879537840252.txt
+C:\terrier\project\corpus\2036717371478749670.txt
+C:\terrier\project\corpus\2036733728089588137.txt
+C:\terrier\project\corpus\2036771847937683601.txt
+C:\terrier\project\corpus\2036809066199048429.txt
+C:\terrier\project\corpus\2036829156558659670.txt
+C:\terrier\project\corpus\2036866703339237740.txt
+C:\terrier\project\corpus\2036879911625846887.txt
+C:\terrier\project\corpus\2036887888537829525.txt
+C:\terrier\project\corpus\2037052767236186441.txt
+C:\terrier\project\corpus\2037104630648205625.txt
+C:\terrier\project\corpus\2037135320559550469.txt
+C:\terrier\project\corpus\2037139379207233737.txt
+C:\terrier\project\corpus\2037145041563521032.txt
+C:\terrier\project\corpus\2037183970614337548.txt
+C:\terrier\project\corpus\2037229517329309703.txt
+C:\terrier\project\corpus\2037253007566319945.txt
+C:\terrier\project\corpus\2037253587273752638.txt
+C:\terrier\project\corpus\2037285517969227992.txt
+C:\terrier\project\corpus\2037289580177526892.txt
+C:\terrier\project\corpus\2037348459918033282.txt
+C:\terrier\project\corpus\2037510244918493624.txt
+C:\terrier\project\corpus\2037570831987970470.txt
+C:\terrier\project\corpus\2037596402277052487.txt
+C:\terrier\project\corpus\2037654779435044995.txt
+C:\terrier\project\corpus\2037669735735664735.txt
+C:\terrier\project\corpus\2037717321142489243.txt
+C:\terrier\project\corpus\2037731453426171974.txt
+C:\terrier\project\corpus\2037906784120156459.txt
+C:\terrier\project\corpus\2037911519636136298.txt
+C:\terrier\project\corpus\2037937332687356059.txt
+C:\terrier\project\corpus\2037942872381567030.txt
+C:\terrier\project\corpus\2037953839211450848.txt
+C:\terrier\project\corpus\2037998909721813233.txt
+C:\terrier\project\corpus\2038034120027349085.txt
+C:\terrier\project\corpus\2038072076980936902.txt
+C:\terrier\project\corpus\2038109284328702387.txt
+C:\terrier\project\corpus\2038136076062122451.txt
+C:\terrier\project\corpus\2038215181587861885.txt
+C:\terrier\project\corpus\2038215691078402247.txt
+C:\terrier\project\corpus\2038225729683697841.txt
+C:\terrier\project\corpus\2038237896969200127.txt
+C:\terrier\project\corpus\2038240631630528773.txt
+C:\terrier\project\corpus\2038271339337834710.txt
+C:\terrier\project\corpus\2038291953494733091.txt
+C:\terrier\project\corpus\2038317921009643652.txt
+C:\terrier\project\corpus\2038326777609695412.txt
+C:\terrier\project\corpus\2038331502967083358.txt
+C:\terrier\project\corpus\2038374231348539550.txt
+C:\terrier\project\corpus\2038397830595797403.txt
+C:\terrier\project\corpus\2038431100075221390.txt
+C:\terrier\project\corpus\2038438187677483463.txt
+C:\terrier\project\corpus\2038443521703559673.txt
+C:\terrier\project\corpus\2038494375735337340.txt
+C:\terrier\project\corpus\2038547285374570897.txt
+C:\terrier\project\corpus\2038576276240236781.txt
+C:\terrier\project\corpus\2038583346671014241.txt
+C:\terrier\project\corpus\2038591924236333512.txt
+C:\terrier\project\corpus\2038600395610525878.txt
+C:\terrier\project\corpus\2038622676156141893.txt
+C:\terrier\project\corpus\2038655800332218680.txt
+C:\terrier\project\corpus\2038676557946904747.txt
+C:\terrier\project\corpus\2038677806197162068.txt
+C:\terrier\project\corpus\2038688552460898465.txt
+C:\terrier\project\corpus\2038727513984143424.txt
+C:\terrier\project\corpus\2038954882585985492.txt
+C:\terrier\project\corpus\2038979295008460834.txt
+C:\terrier\project\corpus\2038982517420683274.txt
+C:\terrier\project\corpus\2038983137867501990.txt
+C:\terrier\project\corpus\2038995401953656871.txt
+C:\terrier\project\corpus\2039011036305494390.txt
+C:\terrier\project\corpus\2039032219029921868.txt
+C:\terrier\project\corpus\2039051392321495458.txt
+C:\terrier\project\corpus\2039058207369281949.txt
+C:\terrier\project\corpus\2039101399967936771.txt
+C:\terrier\project\corpus\2039162364579156192.txt
+C:\terrier\project\corpus\2039214038954180796.txt
+C:\terrier\project\corpus\2039229131838136535.txt
+C:\terrier\project\corpus\2039280096024908046.txt
+C:\terrier\project\corpus\2039281739441242360.txt
+C:\terrier\project\corpus\2039331052578340908.txt
+C:\terrier\project\corpus\2039351946491089264.txt
+C:\terrier\project\corpus\2039353168199368721.txt
+C:\terrier\project\corpus\2039354369708380269.txt
+C:\terrier\project\corpus\2039358879042097357.txt
+C:\terrier\project\corpus\2039365450174202191.txt
+C:\terrier\project\corpus\2039380919153229911.txt
+C:\terrier\project\corpus\2039382820175671335.txt
+C:\terrier\project\corpus\2039404316499329148.txt
+C:\terrier\project\corpus\2039469364240388275.txt
+C:\terrier\project\corpus\2039510695180468416.txt
+C:\terrier\project\corpus\2039528544825647122.txt
+C:\terrier\project\corpus\2039582576105660615.txt
+C:\terrier\project\corpus\2039589086202122245.txt
+C:\terrier\project\corpus\2039598713476465113.txt
+C:\terrier\project\corpus\2039634098671509987.txt
+C:\terrier\project\corpus\2039638152877359261.txt
+C:\terrier\project\corpus\2039668667571437732.txt
+C:\terrier\project\corpus\2039684763058098607.txt
+C:\terrier\project\corpus\2039693066047758637.txt
+C:\terrier\project\corpus\2039702175493013817.txt
+C:\terrier\project\corpus\2039722102211621256.txt
+C:\terrier\project\corpus\2039732425329152448.txt
+C:\terrier\project\corpus\2039735652187623658.txt
+C:\terrier\project\corpus\2039743375180505297.txt
+C:\terrier\project\corpus\2039746040421667267.txt
+C:\terrier\project\corpus\2039771098665947512.txt
+C:\terrier\project\corpus\2039776501445398743.txt
+C:\terrier\project\corpus\2039788666613031122.txt
+C:\terrier\project\corpus\2039799976532770981.txt
+C:\terrier\project\corpus\2039807395476525178.txt
+C:\terrier\project\corpus\2039836220000243820.txt
+C:\terrier\project\corpus\2039874315106349127.txt
+C:\terrier\project\corpus\2039885709721366821.txt
+C:\terrier\project\corpus\2039887864637403309.txt
+C:\terrier\project\corpus\2039963375589839232.txt
+C:\terrier\project\corpus\2040011627156631615.txt
+C:\terrier\project\corpus\2040020365703811202.txt
+C:\terrier\project\corpus\2040034578681741478.txt
+C:\terrier\project\corpus\2040100496149446899.txt
+C:\terrier\project\corpus\2040105690447151132.txt
+C:\terrier\project\corpus\2040105861142516052.txt
+C:\terrier\project\corpus\2040105871477235734.txt
+C:\terrier\project\corpus\2040106314265661953.txt
+C:\terrier\project\corpus\2040118894267076650.txt
+C:\terrier\project\corpus\2040124414482940060.txt
+C:\terrier\project\corpus\2040141117602054506.txt
+C:\terrier\project\corpus\2040167014103420981.txt
+C:\terrier\project\corpus\2040209798050853276.txt
+C:\terrier\project\corpus\2040267376566878712.txt
+C:\terrier\project\corpus\2040295153936863488.txt
+C:\terrier\project\corpus\2040317285567693027.txt
+C:\terrier\project\corpus\2040320391953211872.txt
+C:\terrier\project\corpus\2040322476325105887.txt
+C:\terrier\project\corpus\2040331802569814470.txt
+C:\terrier\project\corpus\2040349498388427212.txt
+C:\terrier\project\corpus\2040358932661903484.txt
+C:\terrier\project\corpus\2040366113784004635.txt
+C:\terrier\project\corpus\2040366837419171895.txt
+C:\terrier\project\corpus\2040369758529347615.txt
+C:\terrier\project\corpus\2040380146545303725.txt
+C:\terrier\project\corpus\2040399372613988805.txt
+C:\terrier\project\corpus\2040399806049161463.txt
+C:\terrier\project\corpus\2040402974246081005.txt
+C:\terrier\project\corpus\2040403610974978364.txt
+C:\terrier\project\corpus\2040414907506814976.txt
+C:\terrier\project\corpus\2040420228157321695.txt
+C:\terrier\project\corpus\2040452738656448835.txt
+C:\terrier\project\corpus\2040483764032377271.txt
+C:\terrier\project\corpus\2040494278619886048.txt
+C:\terrier\project\corpus\2040496607850823692.txt
+C:\terrier\project\corpus\2040531086841671713.txt
+C:\terrier\project\corpus\2040533762589540715.txt
+C:\terrier\project\corpus\2040533948497862916.txt
+C:\terrier\project\corpus\2040541442041622932.txt
+C:\terrier\project\corpus\2040544440499237123.txt
+C:\terrier\project\corpus\2040563514155102286.txt
+C:\terrier\project\corpus\2040583970157433065.txt
+C:\terrier\project\corpus\2040585031824163100.txt
+C:\terrier\project\corpus\2040593304233050263.txt
+C:\terrier\project\corpus\2040595279238316093.txt
+C:\terrier\project\corpus\2040646313415430427.txt
+C:\terrier\project\corpus\2040659115517603957.txt
+C:\terrier\project\corpus\2040681122493862295.txt
+C:\terrier\project\corpus\2040705329155977225.txt
+C:\terrier\project\corpus\2040710274886377858.txt
+C:\terrier\project\corpus\2040712564896833982.txt
+C:\terrier\project\corpus\2040754946946285878.txt
+C:\terrier\project\corpus\2040755876144017464.txt
+C:\terrier\project\corpus\2040756024513069076.txt
+C:\terrier\project\corpus\2040763381007687865.txt
+C:\terrier\project\corpus\2040766279447965733.txt
+C:\terrier\project\corpus\2040768916213936229.txt
+C:\terrier\project\corpus\2040772082955595961.txt
+C:\terrier\project\corpus\2040782715193016766.txt
+C:\terrier\project\corpus\2040798455900053610.txt
+C:\terrier\project\corpus\2040799039826882648.txt
+C:\terrier\project\corpus\2040799046483472642.txt
+C:\terrier\project\corpus\2040831312517292137.txt
+C:\terrier\project\corpus\2040838004424708259.txt
+C:\terrier\project\corpus\2040843878840811547.txt
+C:\terrier\project\corpus\2040852607632068659.txt
+C:\terrier\project\corpus\2040856508599279955.txt
+C:\terrier\project\corpus\2040882419645948103.txt
+C:\terrier\project\corpus\2040884432211460235.txt
+C:\terrier\project\corpus\2040890026045624788.txt
+C:\terrier\project\corpus\2040943476183810500.txt
+C:\terrier\project\corpus\2040952710909063637.txt
+C:\terrier\project\corpus\2040961337115681159.txt
+C:\terrier\project\corpus\2040965512469926252.txt
+C:\terrier\project\corpus\2040967513471844629.txt
+C:\terrier\project\corpus\2040980194836545944.txt
+C:\terrier\project\corpus\2040992658156408928.txt
+C:\terrier\project\corpus\2041016155075477512.txt
+C:\terrier\project\corpus\2041022588797747485.txt
+C:\terrier\project\corpus\2041031636561891730.txt
+C:\terrier\project\corpus\2041047451784638912.txt
+C:\terrier\project\corpus\2041057560120164829.txt
+C:\terrier\project\corpus\2041059796082630768.txt
+C:\terrier\project\corpus\2041063308657049979.txt
+C:\terrier\project\corpus\2041071249254764643.txt
+C:\terrier\project\corpus\2041072180264657242.txt
+C:\terrier\project\corpus\2041078469769998776.txt
+C:\terrier\project\corpus\2041080469106966918.txt
+C:\terrier\project\corpus\2041087535917449714.txt
+C:\terrier\project\corpus\2041098402969137647.txt
+C:\terrier\project\corpus\2041113384348000301.txt
+C:\terrier\project\corpus\2041116712276279792.txt
+C:\terrier\project\corpus\2041122035770773576.txt
+C:\terrier\project\corpus\2041122180629410079.txt
+C:\terrier\project\corpus\2041124056456458278.txt
+C:\terrier\project\corpus\2041128355534143490.txt
+C:\terrier\project\corpus\2041130533099302916.txt
+C:\terrier\project\corpus\2041131308701700320.txt
+C:\terrier\project\corpus\2041132548957544958.txt
+C:\terrier\project\corpus\2041133081122292164.txt
+C:\terrier\project\corpus\2041136723518783577.txt
+C:\terrier\project\corpus\2041140645537177927.txt
+C:\terrier\project\corpus\2041148265505214890.txt
+C:\terrier\project\corpus\2041149001895153823.txt
+C:\terrier\project\corpus\2041150448975937793.txt
+C:\terrier\project\corpus\2041155185716658621.txt
+C:\terrier\project\corpus\2041158235873267980.txt
+C:\terrier\project\corpus\2041168292669264348.txt
+C:\terrier\project\corpus\2041174137926811788.txt
+C:\terrier\project\corpus\2041174253706572123.txt
+C:\terrier\project\corpus\2041187245726797905.txt
+C:\terrier\project\corpus\2041191059212861518.txt
+C:\terrier\project\corpus\2041193014966505622.txt
+C:\terrier\project\corpus\2041197877607772248.txt
+C:\terrier\project\corpus\2041199172607438871.txt
+C:\terrier\project\corpus\2041199714939334938.txt
+C:\terrier\project\corpus\2041201325086539821.txt
+C:\terrier\project\corpus\2041202637534572667.txt
+C:\terrier\project\corpus\2041214640164614560.txt
+C:\terrier\project\corpus\2041218519178649652.txt
+C:\terrier\project\corpus\2041223624690979184.txt
+C:\terrier\project\corpus\2041224272442728633.txt
+C:\terrier\project\corpus\2041226127361155509.txt
+C:\terrier\project\corpus\2041233118968037454.txt
+C:\terrier\project\corpus\2041242884016341336.txt
+C:\terrier\project\corpus\2041243143589523807.txt
+C:\terrier\project\corpus\2041244819557937359.txt
+C:\terrier\project\corpus\2041253672819343467.txt
+C:\terrier\project\corpus\2041254339197432164.txt
+C:\terrier\project\corpus\2041257970126790782.txt
+C:\terrier\project\corpus\2041260499610882445.txt
+C:\terrier\project\corpus\2041263876818321657.txt
+C:\terrier\project\corpus\2041272834836566461.txt
+C:\terrier\project\corpus\2041287377302467039.txt
+C:\terrier\project\corpus\2041296750971936998.txt
+C:\terrier\project\corpus\2041302747010470103.txt
+C:\terrier\project\corpus\2041313272893231499.txt
+C:\terrier\project\corpus\2041314631642419329.txt
+C:\terrier\project\corpus\2041324864020050430.txt
+C:\terrier\project\corpus\2041326758536839565.txt
+C:\terrier\project\corpus\2041329353255227434.txt
+C:\terrier\project\corpus\2041346581790855227.txt
+C:\terrier\project\corpus\2041353740163117314.txt
+C:\terrier\project\corpus\2041354667016278048.txt
+C:\terrier\project\corpus\2041356402208162029.txt
+C:\terrier\project\corpus\2041372755078283307.txt
+C:\terrier\project\corpus\2041380070653125054.txt
+C:\terrier\project\corpus\2041396877162164646.txt
+C:\terrier\project\corpus\2041401302710673437.txt
+C:\terrier\project\corpus\2041404640064114910.txt
+C:\terrier\project\corpus\2041443847486816287.txt
+C:\terrier\project\corpus\2041452516345548991.txt
+C:\terrier\project\corpus\2041463481812017630.txt
+C:\terrier\project\corpus\2041466905806901569.txt
+C:\terrier\project\corpus\2041467362700841228.txt
+C:\terrier\project\corpus\2041468338421846139.txt
+C:\terrier\project\corpus\2041470318363984127.txt
+C:\terrier\project\corpus\2041471812475695319.txt
+C:\terrier\project\corpus\2041472008869851408.txt
+C:\terrier\project\corpus\2041472013743599651.txt
+C:\terrier\project\corpus\2041472840558342376.txt
+C:\terrier\project\corpus\2041473155336675708.txt
+C:\terrier\project\corpus\2041475150059827332.txt
+C:\terrier\project\corpus\2041475661735350412.txt
+C:\terrier\project\corpus\2041476728434897342.txt
+C:\terrier\project\corpus\2041478712865013800.txt
+C:\terrier\project\corpus\2041481189135958195.txt
+C:\terrier\project\corpus\2041486234984366509.txt
+C:\terrier\project\corpus\2041491033209409550.txt
+C:\terrier\project\corpus\2041492164266631468.txt
+C:\terrier\project\corpus\2041493337732010435.txt
+C:\terrier\project\corpus\2041494977092735021.txt
+C:\terrier\project\corpus\2041495116242997587.txt
+C:\terrier\project\corpus\2041496128311714193.txt
+C:\terrier\project\corpus\2041501357488660837.txt
+C:\terrier\project\corpus\2041504103399104774.txt
+C:\terrier\project\corpus\2041505141761941681.txt
+C:\terrier\project\corpus\2041511335339479231.txt
+C:\terrier\project\corpus\2041512468434845888.txt
+C:\terrier\project\corpus\2041516721580994807.txt
+C:\terrier\project\corpus\2041517601319514498.txt
+C:\terrier\project\corpus\2041518291491905590.txt
+C:\terrier\project\corpus\2041519273546543181.txt
+C:\terrier\project\corpus\2041519434892779617.txt
+C:\terrier\project\corpus\2041520728902709324.txt
+C:\terrier\project\corpus\2041523611270304129.txt
+C:\terrier\project\corpus\2041524808379486579.txt
+C:\terrier\project\corpus\2041525437067616579.txt
+C:\terrier\project\corpus\2041526085691576715.txt
+C:\terrier\project\corpus\2041526166515859805.txt
+C:\terrier\project\corpus\2041530563753054467.txt
+C:\terrier\project\corpus\2041530738961445179.txt
+C:\terrier\project\corpus\2041538522633417145.txt
+C:\terrier\project\corpus\2041546858108276974.txt
+C:\terrier\project\corpus\2041562509610532941.txt
+C:\terrier\project\corpus\2041562899844333831.txt
+C:\terrier\project\corpus\2041563747928690805.txt
+C:\terrier\project\corpus\2041569655966581120.txt
+C:\terrier\project\corpus\2041570112176836786.txt
+C:\terrier\project\corpus\2041570735337173431.txt
+C:\terrier\project\corpus\2041570774604017795.txt
+C:\terrier\project\corpus\2041573135443521855.txt
+C:\terrier\project\corpus\2041573835456098807.txt
+C:\terrier\project\corpus\2041574898573718006.txt
+C:\terrier\project\corpus\2041580434447110275.txt
+C:\terrier\project\corpus\2041583862732747089.txt
+C:\terrier\project\corpus\2041588628577776123.txt
+C:\terrier\project\corpus\2041591403881324710.txt
+C:\terrier\project\corpus\2041597025280577582.txt
+C:\terrier\project\corpus\2041602665671467013.txt
+C:\terrier\project\corpus\2041603215238594608.txt
+C:\terrier\project\corpus\2041606217706221707.txt
+C:\terrier\project\corpus\2041626070399492601.txt
+C:\terrier\project\corpus\2041626099197550693.txt
+C:\terrier\project\corpus\2041629529723248646.txt
+C:\terrier\project\corpus\2041630219145019473.txt
+C:\terrier\project\corpus\2041633844802068870.txt
+C:\terrier\project\corpus\2041647149310476767.txt
+C:\terrier\project\corpus\2041651397356138962.txt
+C:\terrier\project\corpus\2041651975146606999.txt
+C:\terrier\project\corpus\2041652041152377093.txt
+C:\terrier\project\corpus\2041652366227743170.txt
+C:\terrier\project\corpus\2041653522727411981.txt
+C:\terrier\project\corpus\2041660567145083146.txt
+C:\terrier\project\corpus\2041666758847688865.txt
+C:\terrier\project\corpus\2041669140998713839.txt
+C:\terrier\project\corpus\2041670624397963516.txt
+C:\terrier\project\corpus\2041672167176229083.txt
+C:\terrier\project\corpus\2041676779383935025.txt
+C:\terrier\project\corpus\2041679790172991726.txt
+C:\terrier\project\corpus\2041686688779362786.txt
+C:\terrier\project\corpus\2041690304802136352.txt
+C:\terrier\project\corpus\2041690421710000443.txt
+C:\terrier\project\corpus\2041704688362631369.txt
+C:\terrier\project\corpus\2041722288253604025.txt
+C:\terrier\project\corpus\2041722450644439539.txt
+C:\terrier\project\corpus\2041722499772354737.txt
+C:\terrier\project\corpus\2041727383712264561.txt
+C:\terrier\project\corpus\2041735336347496673.txt
+C:\terrier\project\corpus\2041739315349483871.txt
+C:\terrier\project\corpus\2041741689019040044.txt
+C:\terrier\project\corpus\2041749886211969208.txt
+C:\terrier\project\corpus\2041785127701807519.txt
+C:\terrier\project\corpus\2041794625048891500.txt
+C:\terrier\project\corpus\2041798397158416450.txt
+C:\terrier\project\corpus\2041798828383465604.txt
+C:\terrier\project\corpus\2041816019128217725.txt
+C:\terrier\project\corpus\2041818137251774834.txt
+C:\terrier\project\corpus\2041822107403948324.txt
+C:\terrier\project\corpus\2041828608067465347.txt
+C:\terrier\project\corpus\2041829487281582417.txt
+C:\terrier\project\corpus\2041832001406173449.txt
+C:\terrier\project\corpus\2041832394496307541.txt
+C:\terrier\project\corpus\2041832794595176517.txt
+C:\terrier\project\corpus\2041835756512055497.txt
+C:\terrier\project\corpus\2041838675903049922.txt
+C:\terrier\project\corpus\2041841176714662328.txt
+C:\terrier\project\corpus\2041841181571608688.txt
+C:\terrier\project\corpus\2041843172192534726.txt
+C:\terrier\project\corpus\2041851209233977356.txt
+C:\terrier\project\corpus\2041854654951084442.txt
+C:\terrier\project\corpus\2041856642388541623.txt
+C:\terrier\project\corpus\2041859245637824817.txt
+C:\terrier\project\corpus\2041865568660418963.txt
+C:\terrier\project\corpus\2041867380536586258.txt
+C:\terrier\project\corpus\2041870525983813775.txt
+C:\terrier\project\corpus\2041883475741966582.txt
+C:\terrier\project\corpus\2041886044157575571.txt
+C:\terrier\project\corpus\2041887102116217327.txt
+C:\terrier\project\corpus\2041892624752103895.txt
+C:\terrier\project\corpus\2041893075359035492.txt
+C:\terrier\project\corpus\2041900185954218009.txt
+C:\terrier\project\corpus\2041903023115661594.txt
+C:\terrier\project\corpus\2041903768753651828.txt
+C:\terrier\project\corpus\2041905440301441174.txt
+C:\terrier\project\corpus\2041908936853655586.txt
+C:\terrier\project\corpus\2041910872004600150.txt
+C:\terrier\project\corpus\2041912816677089700.txt
+C:\terrier\project\corpus\2041913431679238541.txt
+C:\terrier\project\corpus\2041913571701862719.txt
+C:\terrier\project\corpus\2041913867266109898.txt
+C:\terrier\project\corpus\2041914121105674681.txt
+C:\terrier\project\corpus\2041914697189114247.txt
+C:\terrier\project\corpus\2041915703469453377.txt
+C:\terrier\project\corpus\2041916543475273795.txt
+C:\terrier\project\corpus\2041917081164120344.txt
+C:\terrier\project\corpus\2041917546543116293.txt
+C:\terrier\project\corpus\2041922607675494476.txt
+C:\terrier\project\corpus\2041923035641344317.txt
+C:\terrier\project\corpus\2041925726098657733.txt
+C:\terrier\project\corpus\2041926679954591777.txt
+C:\terrier\project\corpus\2041927343875252281.txt
+C:\terrier\project\corpus\2041930312112836668.txt
+C:\terrier\project\corpus\2041937530589688140.txt
+C:\terrier\project\corpus\2041949764795707461.txt
+C:\terrier\project\corpus\2041951355691008264.txt
+C:\terrier\project\corpus\2041952003916755317.txt
+C:\terrier\project\corpus\2041952434038136921.txt
+C:\terrier\project\corpus\2041956744465875143.txt
+C:\terrier\project\corpus\2041959757636845879.txt
+C:\terrier\project\corpus\2041966093787611335.txt
+C:\terrier\project\corpus\2041969877062123648.txt
+C:\terrier\project\corpus\2041975617802150183.txt
+C:\terrier\project\corpus\2041977592774062451.txt
+C:\terrier\project\corpus\2041978164705132714.txt
+C:\terrier\project\corpus\2041978313330057220.txt
+C:\terrier\project\corpus\2041979048478273699.txt
+C:\terrier\project\corpus\2041994645157159342.txt
+C:\terrier\project\corpus\2042016192261415250.txt
+C:\terrier\project\corpus\2042026005116723241.txt
+C:\terrier\project\corpus\2042049857662148959.txt
+C:\terrier\project\corpus\2042050372001239509.txt
+C:\terrier\project\corpus\2042074367233028373.txt
+C:\terrier\project\corpus\2042077140275933595.txt
+C:\terrier\project\corpus\2042088641720127656.txt
+C:\terrier\project\corpus\2042090753170514277.txt
+C:\terrier\project\corpus\2042113595358507188.txt
+C:\terrier\project\corpus\2042115534410387856.txt
+C:\terrier\project\corpus\2042132638840807459.txt
+C:\terrier\project\corpus\2042134514127024398.txt
+C:\terrier\project\corpus\2042141730732937658.txt
+C:\terrier\project\corpus\2042143766983614481.txt
+C:\terrier\project\corpus\2042147823853170858.txt
+C:\terrier\project\corpus\2042153147976519905.txt
+C:\terrier\project\corpus\2042156225819795754.txt
+C:\terrier\project\corpus\2042163101403951467.txt
+C:\terrier\project\corpus\2042171600066199841.txt
+C:\terrier\project\corpus\2042173441814729188.txt
+C:\terrier\project\corpus\2042178945487884658.txt
+C:\terrier\project\corpus\2042189401086964222.txt
+C:\terrier\project\corpus\2042189948728803462.txt
+C:\terrier\project\corpus\2042216066529857781.txt
+C:\terrier\project\corpus\2042238848487620898.txt
+C:\terrier\project\corpus\2042243488679420084.txt
+C:\terrier\project\corpus\2042267020025074046.txt
+C:\terrier\project\corpus\2042270245339942916.txt
+C:\terrier\project\corpus\2042283564201279622.txt
+C:\terrier\project\corpus\2042285167403024731.txt
+C:\terrier\project\corpus\2042286290172068186.txt
+C:\terrier\project\corpus\2042287412009656760.txt
+C:\terrier\project\corpus\2042291786794590513.txt
+C:\terrier\project\corpus\2042293039465394186.txt
+C:\terrier\project\corpus\2042297199455838407.txt
+C:\terrier\project\corpus\2042297432432615708.txt
+C:\terrier\project\corpus\2042300396878586357.txt
+C:\terrier\project\corpus\2042301247060132251.txt
+C:\terrier\project\corpus\2042301265498292284.txt
+C:\terrier\project\corpus\2042302427710300369.txt
+C:\terrier\project\corpus\2042302858930885047.txt
+C:\terrier\project\corpus\2042306053602492860.txt
+C:\terrier\project\corpus\2042317564689211563.txt
+C:\terrier\project\corpus\2042321356096704606.txt
+C:\terrier\project\corpus\2042324795757371613.txt
+C:\terrier\project\corpus\2042325121659293700.txt
+C:\terrier\project\corpus\2042332525121650848.txt
+C:\terrier\project\corpus\2042332581614477464.txt
+C:\terrier\project\corpus\2042333981191127090.txt
+C:\terrier\project\corpus\2042334597296381955.txt
+C:\terrier\project\corpus\2042335225028686131.txt
+C:\terrier\project\corpus\2042338557638152358.txt
+C:\terrier\project\corpus\2042340463856976032.txt
+C:\terrier\project\corpus\2042343832587530364.txt
+C:\terrier\project\corpus\2042354266686570611.txt
+C:\terrier\project\corpus\2042356295278202949.txt
+C:\terrier\project\corpus\2042374340575183282.txt
+C:\terrier\project\corpus\2042374378072019293.txt
+C:\terrier\project\corpus\2042382862721429923.txt
+C:\terrier\project\corpus\2042407893463343228.txt
+C:\terrier\project\corpus\2042427545522749578.txt
+C:\terrier\project\corpus\2042437858418704597.txt
+C:\terrier\project\corpus\2042438410045177994.txt
+C:\terrier\project\corpus\2042453444863410294.txt
+C:\terrier\project\corpus\2042459206507205106.txt
+C:\terrier\project\corpus\2042463823924220081.txt
+C:\terrier\project\corpus\2042495007136096328.txt
+C:\terrier\project\corpus\2042503471409082471.txt
+C:\terrier\project\corpus\2042519262321951016.txt
+C:\terrier\project\corpus\2042522040100622762.txt
+C:\terrier\project\corpus\2042532690545787327.txt
+C:\terrier\project\corpus\2042535303131635889.txt
+C:\terrier\project\corpus\2042541694864744730.txt
+C:\terrier\project\corpus\2042591315905429670.txt
+C:\terrier\project\corpus\2042607943481499773.txt
+C:\terrier\project\corpus\2042618286785880561.txt
+C:\terrier\project\corpus\2042624023540973721.txt
+C:\terrier\project\corpus\2042637022435905760.txt
+C:\terrier\project\corpus\2042638730662678791.txt
+C:\terrier\project\corpus\2042660364891099527.txt
+C:\terrier\project\corpus\2042661659186204958.txt
+C:\terrier\project\corpus\2042672833092870648.txt
+C:\terrier\project\corpus\2042697416311476688.txt
+C:\terrier\project\corpus\2042704796571082816.txt
+C:\terrier\project\corpus\2042723002635424084.txt
+C:\terrier\project\corpus\2042726616460038633.txt
+C:\terrier\project\corpus\2042762050942742835.txt
+C:\terrier\project\corpus\2042783154893635918.txt
+C:\terrier\project\corpus\2042805086842212601.txt
+C:\terrier\project\corpus\2042807349069451734.txt
+C:\terrier\project\corpus\2042841960411439367.txt
+C:\terrier\project\corpus\2042852748056465743.txt
+C:\terrier\project\corpus\2042863157425705399.txt
+C:\terrier\project\corpus\2042873687771127856.txt
+C:\terrier\project\corpus\2042891057701228567.txt
+C:\terrier\project\corpus\2042898166832636385.txt
+C:\terrier\project\corpus\2042907173387415818.txt
+C:\terrier\project\corpus\2042928374646030441.txt
+C:\terrier\project\corpus\2042933456632447058.txt
+C:\terrier\project\corpus\2042949435945009593.txt
+C:\terrier\project\corpus\2042950750091817236.txt
+C:\terrier\project\corpus\2042957078097232040.txt
+C:\terrier\project\corpus\2042958868314034550.txt
+C:\terrier\project\corpus\2042960919446372739.txt
+C:\terrier\project\corpus\2042971368480964694.txt
+C:\terrier\project\corpus\2042994145980006565.txt
+C:\terrier\project\corpus\2043007096044552669.txt
+C:\terrier\project\corpus\2043016766616416531.txt
+C:\terrier\project\corpus\2043029084507176989.txt
+C:\terrier\project\corpus\2043029636884443533.txt
+C:\terrier\project\corpus\2043032319779328178.txt
+C:\terrier\project\corpus\2043032600453779565.txt
+C:\terrier\project\corpus\2043061052804382872.txt
+C:\terrier\project\corpus\2043062728332296278.txt
+C:\terrier\project\corpus\2043073140511674714.txt
+C:\terrier\project\corpus\2043078756114534791.txt
+C:\terrier\project\corpus\2043079785606263253.txt
+C:\terrier\project\corpus\2043088415038599426.txt
+C:\terrier\project\corpus\2043090871092912315.txt
+C:\terrier\project\corpus\2043105989088677902.txt
+C:\terrier\project\corpus\2043115919963037918.txt
+C:\terrier\project\corpus\2043142261559738856.txt
+C:\terrier\project\corpus\2043142301602439409.txt
+C:\terrier\project\corpus\2043146371935658090.txt
+C:\terrier\project\corpus\2043150514972487688.txt
+C:\terrier\project\corpus\2043151110840660459.txt
+C:\terrier\project\corpus\2043151203568341378.txt
+C:\terrier\project\corpus\2043157123522244731.txt
+C:\terrier\project\corpus\2043158953563947223.txt
+C:\terrier\project\corpus\2043162951033499849.txt
+C:\terrier\project\corpus\2043166403793223973.txt
+C:\terrier\project\corpus\2043168734316273888.txt
+C:\terrier\project\corpus\2043178406632632532.txt
+C:\terrier\project\corpus\2043205047258058917.txt
+C:\terrier\project\corpus\2043211582352634038.txt
+C:\terrier\project\corpus\2043220781824618698.txt
+C:\terrier\project\corpus\2043225498923192547.txt
+C:\terrier\project\corpus\2043226856812396742.txt
+C:\terrier\project\corpus\2043229398384435244.txt
+C:\terrier\project\corpus\2043230105628295174.txt
+C:\terrier\project\corpus\2043230899060531432.txt
+C:\terrier\project\corpus\2043231117063627189.txt
+C:\terrier\project\corpus\2043246584914387344.txt
+C:\terrier\project\corpus\2043249009490571292.txt
+C:\terrier\project\corpus\2043249111991034293.txt
+C:\terrier\project\corpus\2043254522584137783.txt
+C:\terrier\project\corpus\2043260208047366309.txt
+C:\terrier\project\corpus\2043264154593575180.txt
+C:\terrier\project\corpus\2043266944996938169.txt
+C:\terrier\project\corpus\2043271395359277553.txt
+C:\terrier\project\corpus\2043275331604234371.txt
+C:\terrier\project\corpus\2043276443149565998.txt
+C:\terrier\project\corpus\2043281166854226216.txt
+C:\terrier\project\corpus\2043290769583206582.txt
+C:\terrier\project\corpus\2043293285847105814.txt
+C:\terrier\project\corpus\2043294551365070967.txt
+C:\terrier\project\corpus\2043295874273419344.txt
+C:\terrier\project\corpus\2043295961464643755.txt
+C:\terrier\project\corpus\2043299405789339826.txt
+C:\terrier\project\corpus\2043310763645759977.txt
+C:\terrier\project\corpus\2043324199582810508.txt
+C:\terrier\project\corpus\2043325641043452383.txt
+C:\terrier\project\corpus\2043326843780997436.txt
+C:\terrier\project\corpus\2043334979820675327.txt
+C:\terrier\project\corpus\2043344650547892486.txt
+C:\terrier\project\corpus\2043347735936487820.txt
+C:\terrier\project\corpus\2043351138955596003.txt
+C:\terrier\project\corpus\2043351179036393719.txt
+C:\terrier\project\corpus\2043352004211142713.txt
+C:\terrier\project\corpus\2043360544913084925.txt
+C:\terrier\project\corpus\2043367716011016347.txt
+C:\terrier\project\corpus\2043370816688079280.txt
+C:\terrier\project\corpus\2043376370596594138.txt
+C:\terrier\project\corpus\2043380442435658054.txt
+C:\terrier\project\corpus\2043382231994130437.txt
+C:\terrier\project\corpus\2043382889174213034.txt
+C:\terrier\project\corpus\2043386242407227871.txt
+C:\terrier\project\corpus\2043408594071146508.txt
+C:\terrier\project\corpus\2043409883782107416.txt
+C:\terrier\project\corpus\2043409989276954653.txt
+C:\terrier\project\corpus\2043416241323573250.txt
+C:\terrier\project\corpus\2043424960853819509.txt
+C:\terrier\project\corpus\2043436654187118754.txt
+C:\terrier\project\corpus\2043441841287139504.txt
+C:\terrier\project\corpus\2043445701372260839.txt
+C:\terrier\project\corpus\2043462794306355346.txt
+C:\terrier\project\corpus\2043464433112956932.txt
+C:\terrier\project\corpus\2043468712188031428.txt
+C:\terrier\project\corpus\2043483889696477425.txt
+C:\terrier\project\corpus\2043504762449199142.txt
+C:\terrier\project\corpus\2043511750663045238.txt
+C:\terrier\project\corpus\2043569878297346220.txt
+C:\terrier\project\corpus\2043570284020568564.txt
+C:\terrier\project\corpus\2043576548951986377.txt
+C:\terrier\project\corpus\2043606829318721757.txt
+C:\terrier\project\corpus\2043611007763751002.txt
+C:\terrier\project\corpus\2043658347577032753.txt
+C:\terrier\project\corpus\2043660123357507856.txt
+C:\terrier\project\corpus\2043673371095765094.txt
+C:\terrier\project\corpus\2043676341996777688.txt
+C:\terrier\project\corpus\2043676991732306421.txt
+C:\terrier\project\corpus\2043678294202356166.txt
+C:\terrier\project\corpus\2043679806676509001.txt
+C:\terrier\project\corpus\2043683142658064809.txt
+C:\terrier\project\corpus\2043690839860531329.txt
+C:\terrier\project\corpus\2043697133337886767.txt
+C:\terrier\project\corpus\2043715690901942703.txt
+C:\terrier\project\corpus\2043718171299832117.txt
+C:\terrier\project\corpus\2043718278019793219.txt
+C:\terrier\project\corpus\2043723895178449312.txt
+C:\terrier\project\corpus\2043723917039435944.txt
+C:\terrier\project\corpus\2043724637885059133.txt
+C:\terrier\project\corpus\2043729009272660318.txt
+C:\terrier\project\corpus\2043735749569458182.txt
+C:\terrier\project\corpus\2043738214301864158.txt
+C:\terrier\project\corpus\2043743518284492899.txt
+C:\terrier\project\corpus\2043748548471108056.txt
+C:\terrier\project\corpus\2043750046789681532.txt
+C:\terrier\project\corpus\2043754133945987519.txt
+C:\terrier\project\corpus\2043755425728999705.txt
+C:\terrier\project\corpus\2043758637366087952.txt
+C:\terrier\project\corpus\2043759384774283644.txt
+C:\terrier\project\corpus\2043760166303346813.txt
+C:\terrier\project\corpus\2043772436248965407.txt
+C:\terrier\project\corpus\2043774522487140691.txt
+C:\terrier\project\corpus\2043781639528935655.txt
+C:\terrier\project\corpus\2043790684029632994.txt
+C:\terrier\project\corpus\2043796366342705288.txt
+C:\terrier\project\corpus\2043806218305581194.txt
+C:\terrier\project\corpus\2043820435490451862.txt
+C:\terrier\project\corpus\2043830569474076893.txt
+C:\terrier\project\corpus\2043831598240674091.txt
+C:\terrier\project\corpus\2043843688355508651.txt
+C:\terrier\project\corpus\2043847956143509719.txt
+C:\terrier\project\corpus\2043849149976649952.txt
+C:\terrier\project\corpus\2043861041239732242.txt
+C:\terrier\project\corpus\2043861543687971037.txt
+C:\terrier\project\corpus\2043878449467555871.txt
+C:\terrier\project\corpus\2043878733119987935.txt
+C:\terrier\project\corpus\2043882223728791918.txt
+C:\terrier\project\corpus\2043922204157694393.txt
+C:\terrier\project\corpus\2043970998320701826.txt
+C:\terrier\project\corpus\2043987368923852949.txt
+C:\terrier\project\corpus\2044007763613802566.txt
+C:\terrier\project\corpus\2044016981729214553.txt
+C:\terrier\project\corpus\2044018281905041542.txt
+C:\terrier\project\corpus\2044027456248787389.txt
+C:\terrier\project\corpus\2044028678770663786.txt
+C:\terrier\project\corpus\2044031727975219499.txt
+C:\terrier\project\corpus\2044045450823573667.txt
+C:\terrier\project\corpus\2044058106909381087.txt
+C:\terrier\project\corpus\2044062496042942628.txt
+C:\terrier\project\corpus\2044089922982649980.txt
+C:\terrier\project\corpus\2044098266221117610.txt
+C:\terrier\project\corpus\2044103379907952982.txt
+C:\terrier\project\corpus\2044107901011112291.txt
+C:\terrier\project\corpus\2044135044751495559.txt
+C:\terrier\project\corpus\2044136965088419915.txt
+C:\terrier\project\corpus\2044146808599822639.txt
+C:\terrier\project\corpus\2044151465963315709.txt
+C:\terrier\project\corpus\2044170047426572431.txt
+C:\terrier\project\corpus\2044180566572961802.txt
+C:\terrier\project\corpus\2044270455406596394.txt
+C:\terrier\project\corpus\2044272929626575080.txt
+C:\terrier\project\corpus\2044287954894340375.txt
+C:\terrier\project\corpus\2044294073939316898.txt
+C:\terrier\project\corpus\2044295111748501523.txt
+C:\terrier\project\corpus\2044297122573328670.txt
+C:\terrier\project\corpus\2044297895977902195.txt
+C:\terrier\project\corpus\2044303550189043915.txt
+C:\terrier\project\corpus\2044335141699609006.txt
+C:\terrier\project\corpus\2044345792069013761.txt
+C:\terrier\project\corpus\2044347009037963731.txt
+C:\terrier\project\corpus\2044363403611791570.txt
+C:\terrier\project\corpus\2044386660469579904.txt
+C:\terrier\project\corpus\2044386854863011983.txt
+C:\terrier\project\corpus\2044394373178171793.txt
+C:\terrier\project\corpus\2044394981360599361.txt
+C:\terrier\project\corpus\2044409120346812706.txt
+C:\terrier\project\corpus\2044409455895326888.txt
+C:\terrier\project\corpus\2044409463315050798.txt
+C:\terrier\project\corpus\2044413844357820500.txt
+C:\terrier\project\corpus\2044433130241540567.txt
+C:\terrier\project\corpus\2044446007568519637.txt
+C:\terrier\project\corpus\2044447797852639628.txt
+C:\terrier\project\corpus\2044450290091294907.txt
+C:\terrier\project\corpus\2044450917907419240.txt
+C:\terrier\project\corpus\2044460430035136649.txt
+C:\terrier\project\corpus\2044461248205455540.txt
+C:\terrier\project\corpus\2044474423751668123.txt
+C:\terrier\project\corpus\2044474609899085889.txt
+C:\terrier\project\corpus\2044477975891214456.txt
+C:\terrier\project\corpus\2044483418298151413.txt
+C:\terrier\project\corpus\2044486351853084681.txt
+C:\terrier\project\corpus\2044487789790826689.txt
+C:\terrier\project\corpus\2044503820391125052.txt
+C:\terrier\project\corpus\2044511083344630024.txt
+C:\terrier\project\corpus\2044522905078321383.txt
+C:\terrier\project\corpus\2044524938258714901.txt
+C:\terrier\project\corpus\2044558953883844890.txt
+C:\terrier\project\corpus\2044559952836973032.txt
+C:\terrier\project\corpus\2044561681259332038.txt
+C:\terrier\project\corpus\2044582049508479018.txt
+C:\terrier\project\corpus\2044599900311265594.txt
+C:\terrier\project\corpus\2044604142044233826.txt
+C:\terrier\project\corpus\2044613514615263245.txt
+C:\terrier\project\corpus\2044630231672303686.txt
+C:\terrier\project\corpus\2044634246187213163.txt
+C:\terrier\project\corpus\2044635509708984323.txt
+C:\terrier\project\corpus\2044657289013920052.txt
+C:\terrier\project\corpus\2044664521650762165.txt
+C:\terrier\project\corpus\2044664917781881028.txt
+C:\terrier\project\corpus\2044694972495196647.txt
+C:\terrier\project\corpus\2044696673465565200.txt
+C:\terrier\project\corpus\2044701855150649639.txt
+C:\terrier\project\corpus\2044731201760420304.txt
+C:\terrier\project\corpus\2044738613666087392.txt
+C:\terrier\project\corpus\2044741848917283064.txt
+C:\terrier\project\corpus\2044750237076427150.txt
+C:\terrier\project\corpus\2044760428287258719.txt
+C:\terrier\project\corpus\2044764969854488962.txt
+C:\terrier\project\corpus\2044766777586909200.txt
+C:\terrier\project\corpus\2044779117271544222.txt
+C:\terrier\project\corpus\2044798944778277219.txt
+C:\terrier\project\corpus\2044799077099962436.txt
+C:\terrier\project\corpus\2044799934067581288.txt
+C:\terrier\project\corpus\2044802741663371609.txt
+C:\terrier\project\corpus\2044804474368131473.txt
+C:\terrier\project\corpus\2044806410421014539.txt
+C:\terrier\project\corpus\2044809407603642523.txt
+C:\terrier\project\corpus\2044816408111149081.txt
+C:\terrier\project\corpus\2044823594350375163.txt
+C:\terrier\project\corpus\2044824726632083615.txt
+C:\terrier\project\corpus\2044826610986106880.txt
+C:\terrier\project\corpus\2044828627209277698.txt
+C:\terrier\project\corpus\2044842193660117084.txt
+C:\terrier\project\corpus\2044846055137722403.txt
+C:\terrier\project\corpus\2044846530549428630.txt
+C:\terrier\project\corpus\2044861076169187378.txt
+C:\terrier\project\corpus\2044861252694880383.txt
+C:\terrier\project\corpus\2044869215371608485.txt
+C:\terrier\project\corpus\2044870335263043852.txt
+C:\terrier\project\corpus\2044875338719633566.txt
+C:\terrier\project\corpus\2044876907078906224.txt
+C:\terrier\project\corpus\2044906697354002673.txt
+C:\terrier\project\corpus\2044910536010400019.txt
+C:\terrier\project\corpus\2044928832424272027.txt
+C:\terrier\project\corpus\2044938361391939882.txt
+C:\terrier\project\corpus\2044961292134515068.txt
+C:\terrier\project\corpus\2044970108112552145.txt
+C:\terrier\project\corpus\2045009825562755257.txt
+C:\terrier\project\corpus\2045023484120617094.txt
+C:\terrier\project\corpus\2045043781985005599.txt
+C:\terrier\project\corpus\2045044242003759454.txt
+C:\terrier\project\corpus\2045057277573341580.txt
+C:\terrier\project\corpus\2045066100329869367.txt
+C:\terrier\project\corpus\2045076329758871681.txt
+C:\terrier\project\corpus\2045085593663918214.txt
+C:\terrier\project\corpus\2045105328644125078.txt
+C:\terrier\project\corpus\2045117788017119524.txt
+C:\terrier\project\corpus\2045121573124759713.txt
+C:\terrier\project\corpus\2045122588888683007.txt
+C:\terrier\project\corpus\2045122877951742189.txt
+C:\terrier\project\corpus\2045123028720201844.txt
+C:\terrier\project\corpus\2045123605529543017.txt
+C:\terrier\project\corpus\2045123636856602795.txt
+C:\terrier\project\corpus\2045125827872923672.txt
+C:\terrier\project\corpus\2045125926288056531.txt
+C:\terrier\project\corpus\2045126052016455776.txt
+C:\terrier\project\corpus\2045127088655519760.txt
+C:\terrier\project\corpus\2045127280024773030.txt
+C:\terrier\project\corpus\2045127314644586980.txt
+C:\terrier\project\corpus\2045127570564243877.txt
+C:\terrier\project\corpus\2045127767289659677.txt
+C:\terrier\project\corpus\2045127802932875465.txt
+C:\terrier\project\corpus\2045128038233321804.txt
+C:\terrier\project\corpus\2045128179199643970.txt
+C:\terrier\project\corpus\2045128754284933479.txt
+C:\terrier\project\corpus\2045128836933673314.txt
+C:\terrier\project\corpus\2045128858123350457.txt
+C:\terrier\project\corpus\2045129276693815685.txt
+C:\terrier\project\corpus\2045129299213029421.txt
+C:\terrier\project\corpus\2045130010063675602.txt
+C:\terrier\project\corpus\2045130184559333635.txt
+C:\terrier\project\corpus\2045130530488713492.txt
+C:\terrier\project\corpus\2045131323916828869.txt
+C:\terrier\project\corpus\2045131418703986876.txt
+C:\terrier\project\corpus\2045131607586025513.txt
+C:\terrier\project\corpus\2045131644584005644.txt
+C:\terrier\project\corpus\2045132211179999466.txt
+C:\terrier\project\corpus\2045132280587239729.txt
+C:\terrier\project\corpus\2045132305883111888.txt
+C:\terrier\project\corpus\2045132702882443527.txt
+C:\terrier\project\corpus\2045132711141024146.txt
+C:\terrier\project\corpus\2045132759035773312.txt
+C:\terrier\project\corpus\2045133183092420754.txt
+C:\terrier\project\corpus\2045133425154076920.txt
+C:\terrier\project\corpus\2045133801467113805.txt
+C:\terrier\project\corpus\2045133865929363964.txt
+C:\terrier\project\corpus\2045134651967132147.txt
+C:\terrier\project\corpus\2045134774482977107.txt
+C:\terrier\project\corpus\2045134999033147649.txt
+C:\terrier\project\corpus\2045135231745728916.txt
+C:\terrier\project\corpus\2045135674244735060.txt
+C:\terrier\project\corpus\2045138479948915078.txt
+C:\terrier\project\corpus\2045139247947227189.txt
+C:\terrier\project\corpus\2045139466164019545.txt
+C:\terrier\project\corpus\2045139846092444138.txt
+C:\terrier\project\corpus\2045140705388159414.txt
+C:\terrier\project\corpus\2045141270931136914.txt
+C:\terrier\project\corpus\2045142699603272012.txt
+C:\terrier\project\corpus\2045143117657952637.txt
+C:\terrier\project\corpus\2045143289196925422.txt
+C:\terrier\project\corpus\2045143388958171426.txt
+C:\terrier\project\corpus\2045144543734177855.txt
+C:\terrier\project\corpus\2045145356141506704.txt
+C:\terrier\project\corpus\2045145433207382456.txt
+C:\terrier\project\corpus\2045145506066927634.txt
+C:\terrier\project\corpus\2045145752536535241.txt
+C:\terrier\project\corpus\2045146116300370031.txt
+C:\terrier\project\corpus\2045146324752888114.txt
+C:\terrier\project\corpus\2045146938140426548.txt
+C:\terrier\project\corpus\2045147505495568581.txt
+C:\terrier\project\corpus\2045149004632359126.txt
+C:\terrier\project\corpus\2045149904285421715.txt
+C:\terrier\project\corpus\2045150416963256560.txt
+C:\terrier\project\corpus\2045150431471362500.txt
+C:\terrier\project\corpus\2045150585750769931.txt
+C:\terrier\project\corpus\2045150636228891133.txt
+C:\terrier\project\corpus\2045151254716850444.txt
+C:\terrier\project\corpus\2045151978179764506.txt
+C:\terrier\project\corpus\2045152846224527367.txt
+C:\terrier\project\corpus\2045153535508025790.txt
+C:\terrier\project\corpus\2045154367410413800.txt
+C:\terrier\project\corpus\2045155262114259192.txt
+C:\terrier\project\corpus\2045156544468095142.txt
+C:\terrier\project\corpus\2045158565447434702.txt
+C:\terrier\project\corpus\2045159006889496963.txt
+C:\terrier\project\corpus\2045159014053388430.txt
+C:\terrier\project\corpus\2045160176341410027.txt
+C:\terrier\project\corpus\2045160693846978996.txt
+C:\terrier\project\corpus\2045160925821325459.txt
+C:\terrier\project\corpus\2045162376631320705.txt
+C:\terrier\project\corpus\2045166791941411225.txt
+C:\terrier\project\corpus\2045166989639885212.txt
+C:\terrier\project\corpus\2045168585937436737.txt
+C:\terrier\project\corpus\2045172271749210152.txt
+C:\terrier\project\corpus\2045174291214504011.txt
+C:\terrier\project\corpus\2045174625894551737.txt
+C:\terrier\project\corpus\2045174645729399094.txt
+C:\terrier\project\corpus\2045177219807433063.txt
+C:\terrier\project\corpus\2045177602952831444.txt
+C:\terrier\project\corpus\2045178057279902129.txt
+C:\terrier\project\corpus\2045178678900912274.txt
+C:\terrier\project\corpus\2045179741519667672.txt
+C:\terrier\project\corpus\2045179849690464406.txt
+C:\terrier\project\corpus\2045179964614656445.txt
+C:\terrier\project\corpus\2045179989750870446.txt
+C:\terrier\project\corpus\2045180447928533389.txt
+C:\terrier\project\corpus\2045180648722149625.txt
+C:\terrier\project\corpus\2045180805798928759.txt
+C:\terrier\project\corpus\2045180818797043972.txt
+C:\terrier\project\corpus\2045180906927738916.txt
+C:\terrier\project\corpus\2045181003488969080.txt
+C:\terrier\project\corpus\2045181234683547872.txt
+C:\terrier\project\corpus\2045181707087954433.txt
+C:\terrier\project\corpus\2045182017164460103.txt
+C:\terrier\project\corpus\2045182794498728129.txt
+C:\terrier\project\corpus\2045183395840557244.txt
+C:\terrier\project\corpus\2045183560009605255.txt
+C:\terrier\project\corpus\2045183966756696175.txt
+C:\terrier\project\corpus\2045183969789108529.txt
+C:\terrier\project\corpus\2045184268431683780.txt
+C:\terrier\project\corpus\2045184571810132448.txt
+C:\terrier\project\corpus\2045185535589900569.txt
+C:\terrier\project\corpus\2045185668197069263.txt
+C:\terrier\project\corpus\2045185691781365766.txt
+C:\terrier\project\corpus\2045186303252414912.txt
+C:\terrier\project\corpus\2045188351758594060.txt
+C:\terrier\project\corpus\2045193824704610668.txt
+C:\terrier\project\corpus\2045216642972430734.txt
+C:\terrier\project\corpus\2045262059424628801.txt
+C:\terrier\project\corpus\2045263017026494471.txt
+C:\terrier\project\corpus\2045268568342765670.txt
+C:\terrier\project\corpus\2045272680677736708.txt
+C:\terrier\project\corpus\2045281214689341918.txt
+C:\terrier\project\corpus\2045310284508860891.txt
+C:\terrier\project\corpus\2045311431671947428.txt
+C:\terrier\project\corpus\2045320721593774373.txt
+C:\terrier\project\corpus\2045323358410031448.txt
+C:\terrier\project\corpus\2045327027163591065.txt
+C:\terrier\project\corpus\2045341687690531108.txt
+C:\terrier\project\corpus\2045380851697946805.txt
+C:\terrier\project\corpus\2045384275198087343.txt
+C:\terrier\project\corpus\2045453318831431934.txt
+C:\terrier\project\corpus\2045456939425870029.txt
+C:\terrier\project\corpus\2045457438019633664.txt
+C:\terrier\project\corpus\2045465117014237265.txt
+C:\terrier\project\corpus\2045478539915628670.txt
+C:\terrier\project\corpus\2045525450336743542.txt
+C:\terrier\project\corpus\2045530191422705969.txt
+C:\terrier\project\corpus\2045621098717364360.txt
+C:\terrier\project\corpus\2045628259270832143.txt
+C:\terrier\project\corpus\2045632787168821742.txt
+C:\terrier\project\corpus\2045646256064643197.txt
+C:\terrier\project\corpus\2045650228385136815.txt
+C:\terrier\project\corpus\2045651310784209126.txt
+C:\terrier\project\corpus\2045706412005720208.txt
+C:\terrier\project\corpus\2045709923116564959.txt
+C:\terrier\project\corpus\2045718208187908517.txt
+C:\terrier\project\corpus\2045737997681734107.txt
+C:\terrier\project\corpus\2045799554495213825.txt
+C:\terrier\project\corpus\2045844170506391722.txt
+C:\terrier\project\corpus\2045854218313994412.txt
+C:\terrier\project\corpus\2045871173804646794.txt
+C:\terrier\project\corpus\2045878465266700790.txt
+C:\terrier\project\corpus\2045880418763776328.txt
+C:\terrier\project\corpus\2045886568196714837.txt
+C:\terrier\project\corpus\2045894021135122617.txt
+C:\terrier\project\corpus\2045903053191082487.txt
+C:\terrier\project\corpus\2045926300515267064.txt
+C:\terrier\project\corpus\2045927296888959349.txt
+C:\terrier\project\corpus\2045945205082194360.txt
+C:\terrier\project\corpus\2045948971156120011.txt
+C:\terrier\project\corpus\2045951153452564954.txt
+C:\terrier\project\corpus\2045954775464747010.txt
+C:\terrier\project\corpus\2045956323632693676.txt
+C:\terrier\project\corpus\2046018552008724762.txt
+C:\terrier\project\corpus\2046024977762365620.txt
+C:\terrier\project\corpus\2046034994016178678.txt
+C:\terrier\project\corpus\2046133012866211856.txt
+C:\terrier\project\corpus\2046142144964935870.txt
+C:\terrier\project\corpus\2046143103963181135.txt
+C:\terrier\project\corpus\2046145633191432575.txt
+C:\terrier\project\corpus\2046161709765640543.txt
+C:\terrier\project\corpus\2046173898195030158.txt
+C:\terrier\project\corpus\2046191984184832160.txt
+C:\terrier\project\corpus\2046229261611122811.txt
+C:\terrier\project\corpus\2046233734374916125.txt
+C:\terrier\project\corpus\2046233735926870401.txt
+C:\terrier\project\corpus\2046234038097097045.txt
+C:\terrier\project\corpus\2046236261933887668.txt
+C:\terrier\project\corpus\2046238463620501525.txt
+C:\terrier\project\corpus\2046247477058080951.txt
+C:\terrier\project\corpus\2046248381555540038.txt
+C:\terrier\project\corpus\2046251972395712960.txt
+C:\terrier\project\corpus\2046256469566468211.txt
+C:\terrier\project\corpus\2046263051519729997.txt
+C:\terrier\project\corpus\2046264921000902853.txt
+C:\terrier\project\corpus\2046267651001897087.txt
+C:\terrier\project\corpus\2046271206874403015.txt
+C:\terrier\project\corpus\2046278402244837572.txt
+C:\terrier\project\corpus\2046298462392852931.txt
+C:\terrier\project\corpus\2046325406664708411.txt
+C:\terrier\project\corpus\2046332028795187380.txt
+C:\terrier\project\corpus\2046342270647959913.txt
+C:\terrier\project\corpus\2046345176168219090.txt
+C:\terrier\project\corpus\2046347138733416901.txt
+C:\terrier\project\corpus\2046363161402749057.txt
+C:\terrier\project\corpus\2046371445580894632.txt
+C:\terrier\project\corpus\2046378904496029723.txt
+C:\terrier\project\corpus\2046381968686764174.txt
+C:\terrier\project\corpus\2046388892715409896.txt
+C:\terrier\project\corpus\2046393205902692468.txt
+C:\terrier\project\corpus\2046394046713852237.txt
+C:\terrier\project\corpus\2046395413402423788.txt
+C:\terrier\project\corpus\2046395846757953595.txt
+C:\terrier\project\corpus\2046421215376535802.txt
+C:\terrier\project\corpus\2046424835996172659.txt
+C:\terrier\project\corpus\2046453889445105776.txt
+C:\terrier\project\corpus\2046473927493308557.txt
+C:\terrier\project\corpus\2046486706262516035.txt
+C:\terrier\project\corpus\2046497767447547978.txt
+C:\terrier\project\corpus\2046506614560317594.txt
+C:\terrier\project\corpus\2046533917256114488.txt
+C:\terrier\project\corpus\2046547113446924778.txt
+C:\terrier\project\corpus\2046549203522834842.txt
+C:\terrier\project\corpus\2046549998737965068.txt
+C:\terrier\project\corpus\2046550610099716577.txt
+C:\terrier\project\corpus\2046552203351970278.txt
+C:\terrier\project\corpus\2046559576259006707.txt
+C:\terrier\project\corpus\2046561418204598664.txt
+C:\terrier\project\corpus\2046562908285399484.txt
+C:\terrier\project\corpus\2046564707356598703.txt
+C:\terrier\project\corpus\2046565898706645291.txt
+C:\terrier\project\corpus\2046566030781403231.txt
+C:\terrier\project\corpus\2046567139101016463.txt
+C:\terrier\project\corpus\2046568963987923112.txt
+C:\terrier\project\corpus\2046573595472900559.txt
+C:\terrier\project\corpus\2046574157526135069.txt
+C:\terrier\project\corpus\2046575815307989434.txt
+C:\terrier\project\corpus\2046576799895961978.txt
+C:\terrier\project\corpus\2046578604704936111.txt
+C:\terrier\project\corpus\2046580238910366083.txt
+C:\terrier\project\corpus\2046581580072734870.txt
+C:\terrier\project\corpus\2046582380710732249.txt
+C:\terrier\project\corpus\2046586543238734175.txt
+C:\terrier\project\corpus\2046589996472336506.txt
+C:\terrier\project\corpus\2046591902493892952.txt
+C:\terrier\project\corpus\2046593277139234968.txt
+C:\terrier\project\corpus\2046598411789512848.txt
+C:\terrier\project\corpus\2046601184744550711.txt
+C:\terrier\project\corpus\2046603487971336511.txt
+C:\terrier\project\corpus\2046605151545315615.txt
+C:\terrier\project\corpus\2046605252250767422.txt
+C:\terrier\project\corpus\2046608182508712145.txt
+C:\terrier\project\corpus\2046610689666535893.txt
+C:\terrier\project\corpus\2046618782056038597.txt
+C:\terrier\project\corpus\2046619849976434782.txt
+C:\terrier\project\corpus\2046622019941187771.txt
+C:\terrier\project\corpus\2046622112132260185.txt
+C:\terrier\project\corpus\2046622991438827948.txt
+C:\terrier\project\corpus\2046623882052857928.txt
+C:\terrier\project\corpus\2046628701433954731.txt
+C:\terrier\project\corpus\2046630390757302671.txt
+C:\terrier\project\corpus\2046633574514753778.txt
+C:\terrier\project\corpus\2046638112722330047.txt
+C:\terrier\project\corpus\2046638153566671194.txt
+C:\terrier\project\corpus\2046638623194526053.txt
+C:\terrier\project\corpus\2046639008391016467.txt
+C:\terrier\project\corpus\2046639235474829577.txt
+C:\terrier\project\corpus\2046639541792997576.txt
+C:\terrier\project\corpus\2046640498916708617.txt
+C:\terrier\project\corpus\2046641570234163460.txt
+C:\terrier\project\corpus\2046644130671960457.txt
+C:\terrier\project\corpus\2046644447790924187.txt
+C:\terrier\project\corpus\2046644760387977228.txt
+C:\terrier\project\corpus\2046647550057611739.txt
+C:\terrier\project\corpus\2046648185796370782.txt
+C:\terrier\project\corpus\2046651652174754105.txt
+C:\terrier\project\corpus\2046651948384862473.txt
+C:\terrier\project\corpus\2046652115922096257.txt
+C:\terrier\project\corpus\2046653396032131225.txt
+C:\terrier\project\corpus\2046653697132773561.txt
+C:\terrier\project\corpus\2046654713081303548.txt
+C:\terrier\project\corpus\2046654990656451068.txt
+C:\terrier\project\corpus\2046657066627203536.txt
+C:\terrier\project\corpus\2046657389945090386.txt
+C:\terrier\project\corpus\2046658101491720642.txt
+C:\terrier\project\corpus\2046659390871126135.txt
+C:\terrier\project\corpus\2046659752806191603.txt
+C:\terrier\project\corpus\2046660050840879509.txt
+C:\terrier\project\corpus\2046661093188374915.txt
+C:\terrier\project\corpus\2046661120736309316.txt
+C:\terrier\project\corpus\2046661373258510405.txt
+C:\terrier\project\corpus\2046661853959598536.txt
+C:\terrier\project\corpus\2046662785975922796.txt
+C:\terrier\project\corpus\2046665192885666190.txt
+C:\terrier\project\corpus\2046665927136043498.txt
+C:\terrier\project\corpus\2046666009809949154.txt
+C:\terrier\project\corpus\2046670734114849084.txt
+C:\terrier\project\corpus\2046672763143012425.txt
+C:\terrier\project\corpus\2046674078375776621.txt
+C:\terrier\project\corpus\2046675604008063345.txt
+C:\terrier\project\corpus\2046677036417069365.txt
+C:\terrier\project\corpus\2046681897594675558.txt
+C:\terrier\project\corpus\2046682037839397345.txt
+C:\terrier\project\corpus\2046682606838657098.txt
+C:\terrier\project\corpus\2046686350921912408.txt
+C:\terrier\project\corpus\2046688711253901514.txt
+C:\terrier\project\corpus\2046690392423256533.txt
+C:\terrier\project\corpus\2046691700546904495.txt
+C:\terrier\project\corpus\2046692020526199214.txt
+C:\terrier\project\corpus\2046692344938852809.txt
+C:\terrier\project\corpus\2046693152476860675.txt
+C:\terrier\project\corpus\2046694045410640361.txt
+C:\terrier\project\corpus\2046697856954671373.txt
+C:\terrier\project\corpus\2046700274257944842.txt
+C:\terrier\project\corpus\2046706431794012524.txt
+C:\terrier\project\corpus\2046709223015547209.txt
+C:\terrier\project\corpus\2046709928560357658.txt
+C:\terrier\project\corpus\2046713838595154091.txt
+C:\terrier\project\corpus\2046714829558128978.txt
+C:\terrier\project\corpus\2046715836707049606.txt
+C:\terrier\project\corpus\2046718176524894668.txt
+C:\terrier\project\corpus\2046721111166189765.txt
+C:\terrier\project\corpus\2046736494182772762.txt
+C:\terrier\project\corpus\2046740858750513552.txt
+C:\terrier\project\corpus\2046740954057515379.txt
+C:\terrier\project\corpus\2046745061589963001.txt
+C:\terrier\project\corpus\2046746053672595475.txt
+C:\terrier\project\corpus\2046747314031820893.txt
+C:\terrier\project\corpus\2046758576073703596.txt
+C:\terrier\project\corpus\2046763792269287882.txt
+C:\terrier\project\corpus\2046764416352354572.txt
+C:\terrier\project\corpus\2046764939780735123.txt
+C:\terrier\project\corpus\2046774529632940333.txt
+C:\terrier\project\corpus\2046774612432982138.txt
+C:\terrier\project\corpus\2046777178818331060.txt
+C:\terrier\project\corpus\2046777925035266491.txt
+C:\terrier\project\corpus\2046778460874358804.txt
+C:\terrier\project\corpus\2046779042792124721.txt
+C:\terrier\project\corpus\2046780190450466858.txt
+C:\terrier\project\corpus\2046804597898129804.txt
+C:\terrier\project\corpus\2046807425400148033.txt
+C:\terrier\project\corpus\2046808483908247843.txt
+C:\terrier\project\corpus\2046811080349909301.txt
+C:\terrier\project\corpus\2046811939049767202.txt
+C:\terrier\project\corpus\2046815325488894339.txt
+C:\terrier\project\corpus\2046827611159159093.txt
+C:\terrier\project\corpus\2046838074634862888.txt
+C:\terrier\project\corpus\2046839347761254759.txt
+C:\terrier\project\corpus\2046844048351076728.txt
+C:\terrier\project\corpus\2046847585282101533.txt
+C:\terrier\project\corpus\2046848350444544212.txt
+C:\terrier\project\corpus\2046852823531270214.txt
+C:\terrier\project\corpus\2046858353976955081.txt
+C:\terrier\project\corpus\2046858724367888407.txt
+C:\terrier\project\corpus\2046858753815839117.txt
+C:\terrier\project\corpus\2046859259116142850.txt
+C:\terrier\project\corpus\2046859890430202002.txt
+C:\terrier\project\corpus\2046859895362777365.txt
+C:\terrier\project\corpus\2046863862646083947.txt
+C:\terrier\project\corpus\2046870259039195517.txt
+C:\terrier\project\corpus\2046880915184615757.txt
+C:\terrier\project\corpus\2046881437895250009.txt
+C:\terrier\project\corpus\2046882791011623293.txt
+C:\terrier\project\corpus\2046892211418353796.txt
+C:\terrier\project\corpus\2046892291332162028.txt
+C:\terrier\project\corpus\2046895116154003675.txt
+C:\terrier\project\corpus\2046895537211986264.txt
+C:\terrier\project\corpus\2046895941823668649.txt
+C:\terrier\project\corpus\2046902631227154634.txt
+C:\terrier\project\corpus\2046913706605637897.txt
+C:\terrier\project\corpus\2046913773370216485.txt
+C:\terrier\project\corpus\2046915384524116135.txt
+C:\terrier\project\corpus\2046919170642600388.txt
+C:\terrier\project\corpus\2046923886760202449.txt
+C:\terrier\project\corpus\2046926409487036473.txt
+C:\terrier\project\corpus\2046927061369938353.txt
+C:\terrier\project\corpus\2046931928226594903.txt
+C:\terrier\project\corpus\2046933827033956551.txt
+C:\terrier\project\corpus\2046935380688023814.txt
+C:\terrier\project\corpus\2046937378921840676.txt
+C:\terrier\project\corpus\2046942196645974371.txt
+C:\terrier\project\corpus\2046950261860528362.txt
+C:\terrier\project\corpus\2046950778812715373.txt
+C:\terrier\project\corpus\2046951078193664119.txt
+C:\terrier\project\corpus\2046952563124077027.txt
+C:\terrier\project\corpus\2046953560840065213.txt
+C:\terrier\project\corpus\2046955093254197487.txt
+C:\terrier\project\corpus\2046955533882544302.txt
+C:\terrier\project\corpus\2046956424509435961.txt
+C:\terrier\project\corpus\2046957451803541549.txt
+C:\terrier\project\corpus\2046958944178798991.txt
+C:\terrier\project\corpus\2046964720662700208.txt
+C:\terrier\project\corpus\2046965045863580150.txt
+C:\terrier\project\corpus\2046965623234928868.txt
+C:\terrier\project\corpus\2046970460441870619.txt
+C:\terrier\project\corpus\2046973222604997045.txt
+C:\terrier\project\corpus\2046979003790049522.txt
+C:\terrier\project\corpus\2046979438475141552.txt
+C:\terrier\project\corpus\2046979696521519225.txt
+C:\terrier\project\corpus\2046980674402357530.txt
+C:\terrier\project\corpus\2046986202671116388.txt
+C:\terrier\project\corpus\2046987177163141338.txt
+C:\terrier\project\corpus\2046988203165401106.txt
+C:\terrier\project\corpus\2046988271725482398.txt
+C:\terrier\project\corpus\2046988588076634133.txt
+C:\terrier\project\corpus\2046990698574991519.txt
+C:\terrier\project\corpus\2046991950067507599.txt
+C:\terrier\project\corpus\2046992102303633889.txt
+C:\terrier\project\corpus\2046992567300960287.txt
+C:\terrier\project\corpus\2046992737501597698.txt
+C:\terrier\project\corpus\2046994829633372423.txt
+C:\terrier\project\corpus\2046996260528292067.txt
+C:\terrier\project\corpus\2046997040899469628.txt
+C:\terrier\project\corpus\2046997632929677599.txt
+C:\terrier\project\corpus\2046998693245837362.txt
+C:\terrier\project\corpus\2046999031411576981.txt
+C:\terrier\project\corpus\2047000006243053672.txt
+C:\terrier\project\corpus\2047000487208083890.txt
+C:\terrier\project\corpus\2047002076543135803.txt
+C:\terrier\project\corpus\2047002942658453916.txt
+C:\terrier\project\corpus\2047004229529997566.txt
+C:\terrier\project\corpus\2047004905764979041.txt
+C:\terrier\project\corpus\2047004991492133322.txt
+C:\terrier\project\corpus\2047005090309882094.txt
+C:\terrier\project\corpus\2047012923642446286.txt
+C:\terrier\project\corpus\2047013016114212975.txt
+C:\terrier\project\corpus\2047013895638823000.txt
+C:\terrier\project\corpus\2047014121581797724.txt
+C:\terrier\project\corpus\2047014209909924277.txt
+C:\terrier\project\corpus\2047015083272765649.txt
+C:\terrier\project\corpus\2047016333129515011.txt
+C:\terrier\project\corpus\2047016641532252373.txt
+C:\terrier\project\corpus\2047019420753756438.txt
+C:\terrier\project\corpus\2047024232756859198.txt
+C:\terrier\project\corpus\2047025553312768269.txt
+C:\terrier\project\corpus\2047031433919664171.txt
+C:\terrier\project\corpus\2047035236228190340.txt
+C:\terrier\project\corpus\2047035267417022961.txt
+C:\terrier\project\corpus\2047037358067929475.txt
+C:\terrier\project\corpus\2047037956687368343.txt
+C:\terrier\project\corpus\2047038982446584046.txt
+C:\terrier\project\corpus\2047039228509303216.txt
+C:\terrier\project\corpus\2047039729049256255.txt
+C:\terrier\project\corpus\2047048929603113272.txt
+C:\terrier\project\corpus\2047053696177930721.txt
+C:\terrier\project\corpus\2047055494313836743.txt
+C:\terrier\project\corpus\2047058893881356585.txt
+C:\terrier\project\corpus\2047061013124505663.txt
+C:\terrier\project\corpus\2047062739475206383.txt
+C:\terrier\project\corpus\2047065635700519278.txt
+C:\terrier\project\corpus\2047069181305344444.txt
+C:\terrier\project\corpus\2047071127797719490.txt
+C:\terrier\project\corpus\2047071645597405362.txt
+C:\terrier\project\corpus\2047071646335574428.txt
+C:\terrier\project\corpus\2047072394343305470.txt
+C:\terrier\project\corpus\2047074228042907672.txt
+C:\terrier\project\corpus\2047092997389742348.txt
+C:\terrier\project\corpus\2047104242201289149.txt
+C:\terrier\project\corpus\2047105066096807967.txt
+C:\terrier\project\corpus\2047105678855041133.txt
+C:\terrier\project\corpus\2047106223980347715.txt
+C:\terrier\project\corpus\2047106776986771908.txt
+C:\terrier\project\corpus\2047109318873399388.txt
+C:\terrier\project\corpus\2047110870694592930.txt
+C:\terrier\project\corpus\2047117036132983051.txt
+C:\terrier\project\corpus\2047117814679458077.txt
+C:\terrier\project\corpus\2047118658938564621.txt
+C:\terrier\project\corpus\2047118925725397269.txt
+C:\terrier\project\corpus\2047119120102043775.txt
+C:\terrier\project\corpus\2047122128923951476.txt
+C:\terrier\project\corpus\2047134404942950755.txt
+C:\terrier\project\corpus\2047138288771977580.txt
+C:\terrier\project\corpus\2047140904478409130.txt
+C:\terrier\project\corpus\2047142267362725918.txt
+C:\terrier\project\corpus\2047148507920748749.txt
+C:\terrier\project\corpus\2047178797619814443.txt
+C:\terrier\project\corpus\2047181481328709793.txt
+C:\terrier\project\corpus\2047201510388613264.txt
+C:\terrier\project\corpus\2047205571288273084.txt
+C:\terrier\project\corpus\2047213835048653278.txt
+C:\terrier\project\corpus\2047223224987971874.txt
+C:\terrier\project\corpus\2047226820093981066.txt
+C:\terrier\project\corpus\2047235976385396742.txt
+C:\terrier\project\corpus\2047240853366997494.txt
+C:\terrier\project\corpus\2047250307885719632.txt
+C:\terrier\project\corpus\2047253198834893071.txt
+C:\terrier\project\corpus\2047254953602015530.txt
+C:\terrier\project\corpus\2047259004896735734.txt
+C:\terrier\project\corpus\2047264092721738060.txt
+C:\terrier\project\corpus\2047269506855182701.txt
+C:\terrier\project\corpus\2047269607728140663.txt
+C:\terrier\project\corpus\2047270750164492555.txt
+C:\terrier\project\corpus\2047272034808320277.txt
+C:\terrier\project\corpus\2047277089104023733.txt
+C:\terrier\project\corpus\2047278856386593280.txt
+C:\terrier\project\corpus\2047282289013608495.txt
+C:\terrier\project\corpus\2047289858180165796.txt
+C:\terrier\project\corpus\2047317504364515693.txt
+C:\terrier\project\corpus\2047321454153179519.txt
+C:\terrier\project\corpus\2047326979540627886.txt
+C:\terrier\project\corpus\2047330426294067381.txt
+C:\terrier\project\corpus\2047336342787395803.txt
+C:\terrier\project\corpus\2047338455915733253.txt
+C:\terrier\project\corpus\2047339584233554419.txt
+C:\terrier\project\corpus\2047342433017446444.txt
+C:\terrier\project\corpus\2047345339309625422.txt
+C:\terrier\project\corpus\2047352274461045244.txt
+C:\terrier\project\corpus\2047355833223139490.txt
+C:\terrier\project\corpus\2047359007195623860.txt
+C:\terrier\project\corpus\2047359682642321451.txt
+C:\terrier\project\corpus\2047361336674275792.txt
+C:\terrier\project\corpus\2047362486492369035.txt
+C:\terrier\project\corpus\2047365076714401993.txt
+C:\terrier\project\corpus\2047365262689653044.txt
+C:\terrier\project\corpus\2047370837934981317.txt
+C:\terrier\project\corpus\2047371195926946227.txt
+C:\terrier\project\corpus\2047374128877810115.txt
+C:\terrier\project\corpus\2047376898762694897.txt
+C:\terrier\project\corpus\2047379283614867826.txt
+C:\terrier\project\corpus\2047382788236840962.txt
+C:\terrier\project\corpus\2047383220019204199.txt
+C:\terrier\project\corpus\2047383713709691293.txt
+C:\terrier\project\corpus\2047383758731370707.txt
+C:\terrier\project\corpus\2047384774302667182.txt
+C:\terrier\project\corpus\2047386859630915724.txt
+C:\terrier\project\corpus\2047389080695328842.txt
+C:\terrier\project\corpus\2047390467700981969.txt
+C:\terrier\project\corpus\2047390568272052558.txt
+C:\terrier\project\corpus\2047391298827812867.txt
+C:\terrier\project\corpus\2047391922092712178.txt
+C:\terrier\project\corpus\2047393080764989674.txt
+C:\terrier\project\corpus\2047393600804167832.txt
+C:\terrier\project\corpus\2047393984960757975.txt
+C:\terrier\project\corpus\2047394723615191461.txt
+C:\terrier\project\corpus\2047395019049562324.txt
+C:\terrier\project\corpus\2047396737334309208.txt
+C:\terrier\project\corpus\2047396765645635915.txt
+C:\terrier\project\corpus\2047397392215880075.txt
+C:\terrier\project\corpus\2047398030425706733.txt
+C:\terrier\project\corpus\2047400916400341040.txt
+C:\terrier\project\corpus\2047401662768181258.txt
+C:\terrier\project\corpus\2047402504929903027.txt
+C:\terrier\project\corpus\2047403471570194857.txt
+C:\terrier\project\corpus\2047403654550831423.txt
+C:\terrier\project\corpus\2047403817122058425.txt
+C:\terrier\project\corpus\2047404781489266947.txt
+C:\terrier\project\corpus\2047405833114251485.txt
+C:\terrier\project\corpus\2047407649063407937.txt
+C:\terrier\project\corpus\2047407910670524637.txt
+C:\terrier\project\corpus\2047409326067732832.txt
+C:\terrier\project\corpus\2047409792101318896.txt
+C:\terrier\project\corpus\2047410594555580916.txt
+C:\terrier\project\corpus\2047412033549635618.txt
+C:\terrier\project\corpus\2047413283544514966.txt
+C:\terrier\project\corpus\2047415145907777824.txt
+C:\terrier\project\corpus\2047426543433990537.txt
+C:\terrier\project\corpus\2047431940043575618.txt
+C:\terrier\project\corpus\2047440045217648711.txt
+C:\terrier\project\corpus\2047442659912868078.txt
+C:\terrier\project\corpus\2047450380393721896.txt
+C:\terrier\project\corpus\2047450665786524035.txt
+C:\terrier\project\corpus\2047473093048709210.txt
+C:\terrier\project\corpus\2047475996031377646.txt
+C:\terrier\project\corpus\2047478866776920494.txt
+C:\terrier\project\corpus\2047488443333370267.txt
+C:\terrier\project\corpus\2047499113944564046.txt
+C:\terrier\project\corpus\2047506919837810839.txt
+C:\terrier\project\corpus\2047548339693002773.txt
+C:\terrier\project\corpus\2047549034206990341.txt
+C:\terrier\project\corpus\2047554661314666832.txt
+C:\terrier\project\corpus\2047562261779349575.txt
+C:\terrier\project\corpus\2047564976643092570.txt
+C:\terrier\project\corpus\2047576197568037227.txt
+C:\terrier\project\corpus\2047593991726616957.txt
+C:\terrier\project\corpus\2047604702012199220.txt
+C:\terrier\project\corpus\2047609684664934623.txt
+C:\terrier\project\corpus\2047621792647516634.txt
+C:\terrier\project\corpus\2047626880656843044.txt
+C:\terrier\project\corpus\2047630315540107408.txt
+C:\terrier\project\corpus\2047643854350782970.txt
+C:\terrier\project\corpus\2047646690220372373.txt
+C:\terrier\project\corpus\2047652393584574735.txt
+C:\terrier\project\corpus\2047655390058361230.txt
+C:\terrier\project\corpus\2047663691383054408.txt
+C:\terrier\project\corpus\2047670789760282968.txt
+C:\terrier\project\corpus\2047670838766579757.txt
+C:\terrier\project\corpus\2047671254916927873.txt
+C:\terrier\project\corpus\2047671446856696170.txt
+C:\terrier\project\corpus\2047672170198020569.txt
+C:\terrier\project\corpus\2047673752284995672.txt
+C:\terrier\project\corpus\2047683360332410880.txt
+C:\terrier\project\corpus\2047683382939627584.txt
+C:\terrier\project\corpus\2047686485382767077.txt
+C:\terrier\project\corpus\2047687306547716484.txt
+C:\terrier\project\corpus\2047693387038355861.txt
+C:\terrier\project\corpus\2047695222121865258.txt
+C:\terrier\project\corpus\2047697940588937677.txt
+C:\terrier\project\corpus\2047698365622698456.txt
+C:\terrier\project\corpus\2047700843965689904.txt
+C:\terrier\project\corpus\2047701712199188828.txt
+C:\terrier\project\corpus\2047708999231918415.txt
+C:\terrier\project\corpus\2047713817660985430.txt
+C:\terrier\project\corpus\2047728659797025041.txt
+C:\terrier\project\corpus\2047732300750938301.txt
+C:\terrier\project\corpus\2047742727203467483.txt
+C:\terrier\project\corpus\2047747591656632586.txt
+C:\terrier\project\corpus\2047748012819067131.txt
+C:\terrier\project\corpus\2047748358983274887.txt
+C:\terrier\project\corpus\2047749293017076115.txt
+C:\terrier\project\corpus\2047752132217155631.txt
+C:\terrier\project\corpus\2047752934382014562.txt
+C:\terrier\project\corpus\2047754140705870025.txt
+C:\terrier\project\corpus\2047754977662177556.txt
+C:\terrier\project\corpus\2047755173305757721.txt
+C:\terrier\project\corpus\2047755809891688698.txt
+C:\terrier\project\corpus\2047757599194431660.txt
+C:\terrier\project\corpus\2047764663035986009.txt
+C:\terrier\project\corpus\2047769366650052800.txt
+C:\terrier\project\corpus\2047770030348419270.txt
+C:\terrier\project\corpus\2047780910364582115.txt
+C:\terrier\project\corpus\2047784008742801912.txt
+C:\terrier\project\corpus\2047784935314858373.txt
+C:\terrier\project\corpus\2047788374736732232.txt
+C:\terrier\project\corpus\2047790414397047245.txt
+C:\terrier\project\corpus\2047796977128374524.txt
+C:\terrier\project\corpus\2047800391090278437.txt
+C:\terrier\project\corpus\2047805235070894590.txt
+C:\terrier\project\corpus\2047808952667144351.txt
+C:\terrier\project\corpus\2047812838157328514.txt
+C:\terrier\project\corpus\2047813961714700686.txt
+C:\terrier\project\corpus\2047815603105231185.txt
+C:\terrier\project\corpus\2047824780980851007.txt
+C:\terrier\project\corpus\2047827933784416401.txt
+C:\terrier\project\corpus\2047840469439156714.txt
+C:\terrier\project\corpus\2047849062993379661.txt
+C:\terrier\project\corpus\2047854444117717489.txt
+C:\terrier\project\corpus\2047861698728804837.txt
+C:\terrier\project\corpus\2047869557877174735.txt
+C:\terrier\project\corpus\2047870963895980032.txt
+C:\terrier\project\corpus\2047897548220969030.txt
+C:\terrier\project\corpus\2047898197755105521.txt
+C:\terrier\project\corpus\2047909506906988628.txt
+C:\terrier\project\corpus\2047925825534632298.txt
+C:\terrier\project\corpus\2047926524494377295.txt
+C:\terrier\project\corpus\2047932675181236629.txt
+C:\terrier\project\corpus\2047932700711956712.txt
+C:\terrier\project\corpus\2047933250161856926.txt
+C:\terrier\project\corpus\2047938521550278709.txt
+C:\terrier\project\corpus\2047939001479278912.txt
+C:\terrier\project\corpus\2047947584921030949.txt
+C:\terrier\project\corpus\2047950360002642189.txt
+C:\terrier\project\corpus\2047953634575679565.txt
+C:\terrier\project\corpus\2047955046751785046.txt
+C:\terrier\project\corpus\2047955713931067857.txt
+C:\terrier\project\corpus\2047986974703681741.txt
+C:\terrier\project\corpus\2047994353142890835.txt
+C:\terrier\project\corpus\2047996842839851127.txt
+C:\terrier\project\corpus\2048006940211458316.txt
+C:\terrier\project\corpus\2048009039129276470.txt
+C:\terrier\project\corpus\2048015658604961955.txt
+C:\terrier\project\corpus\2048016696972353750.txt
+C:\terrier\project\corpus\2048021813545009407.txt
+C:\terrier\project\corpus\2048025596786323457.txt
+C:\terrier\project\corpus\2048030725010591762.txt
+C:\terrier\project\corpus\2048032806429688104.txt
+C:\terrier\project\corpus\2048034310981132781.txt
+C:\terrier\project\corpus\2048036263505154515.txt
+C:\terrier\project\corpus\2048038361479122964.txt
+C:\terrier\project\corpus\2048045834420244623.txt
+C:\terrier\project\corpus\2048046237929099351.txt
+C:\terrier\project\corpus\2048046246892368208.txt
+C:\terrier\project\corpus\2048050532896723098.txt
+C:\terrier\project\corpus\2048052709723419034.txt
+C:\terrier\project\corpus\2048053251971625332.txt
+C:\terrier\project\corpus\2048055809368826278.txt
+C:\terrier\project\corpus\2048055820990939501.txt
+C:\terrier\project\corpus\2048057330646794353.txt
+C:\terrier\project\corpus\2048057482749088227.txt
+C:\terrier\project\corpus\2048057530543444048.txt
+C:\terrier\project\corpus\2048058649403097155.txt
+C:\terrier\project\corpus\2048059931744461200.txt
+C:\terrier\project\corpus\2048062161235087383.txt
+C:\terrier\project\corpus\2048066267827888530.txt
+C:\terrier\project\corpus\2048067114183897189.txt
+C:\terrier\project\corpus\2048067245767577723.txt
+C:\terrier\project\corpus\2048068117830774997.txt
+C:\terrier\project\corpus\2048068534106800339.txt
+C:\terrier\project\corpus\2048069425727778910.txt
+C:\terrier\project\corpus\2048070302815404175.txt
+C:\terrier\project\corpus\2048072117598695522.txt
+C:\terrier\project\corpus\2048073597105713274.txt
+C:\terrier\project\corpus\2048074781908402653.txt
+C:\terrier\project\corpus\2048076109174993201.txt
+C:\terrier\project\corpus\2048079872099004687.txt
+C:\terrier\project\corpus\2048081276117332259.txt
+C:\terrier\project\corpus\2048081646767751239.txt
+C:\terrier\project\corpus\2048082605221028035.txt
+C:\terrier\project\corpus\2048084517546573943.txt
+C:\terrier\project\corpus\2048085092631814408.txt
+C:\terrier\project\corpus\2048087735135572029.txt
+C:\terrier\project\corpus\2048090811339002314.txt
+C:\terrier\project\corpus\2048093735117000889.txt
+C:\terrier\project\corpus\2048093745980244284.txt
+C:\terrier\project\corpus\2048099080824619421.txt
+C:\terrier\project\corpus\2048100978264563863.txt
+C:\terrier\project\corpus\2048101836008329461.txt
+C:\terrier\project\corpus\2048103444393717773.txt
+C:\terrier\project\corpus\2048106949665817078.txt
+C:\terrier\project\corpus\2048107150619132148.txt
+C:\terrier\project\corpus\2048107271591469269.txt
+C:\terrier\project\corpus\2048108675676418496.txt
+C:\terrier\project\corpus\2048111375130431870.txt
+C:\terrier\project\corpus\2048111434660495650.txt
+C:\terrier\project\corpus\2048113502792057211.txt
+C:\terrier\project\corpus\2048118717326745769.txt
+C:\terrier\project\corpus\2048119388390461670.txt
+C:\terrier\project\corpus\2048119482221027624.txt
+C:\terrier\project\corpus\2048121340914528385.txt
+C:\terrier\project\corpus\2048121681336574160.txt
+C:\terrier\project\corpus\2048122261455187969.txt
+C:\terrier\project\corpus\2048126741944611327.txt
+C:\terrier\project\corpus\2048129375758127530.txt
+C:\terrier\project\corpus\2048130296168493363.txt
+C:\terrier\project\corpus\2048131504505508275.txt
+C:\terrier\project\corpus\2048131882404233372.txt
+C:\terrier\project\corpus\2048133444048421104.txt
+C:\terrier\project\corpus\2048137391207014828.txt
+C:\terrier\project\corpus\2048137582253310210.txt
+C:\terrier\project\corpus\2048143118420054518.txt
+C:\terrier\project\corpus\2048143190763430021.txt
+C:\terrier\project\corpus\2048143242164871421.txt
+C:\terrier\project\corpus\2048143628321636467.txt
+C:\terrier\project\corpus\2048143634751512697.txt
+C:\terrier\project\corpus\2048146883697140014.txt
+C:\terrier\project\corpus\2048147024743465063.txt
+C:\terrier\project\corpus\2048149889620578517.txt
+C:\terrier\project\corpus\2048156083080806712.txt
+C:\terrier\project\corpus\2048158807637864833.txt
+C:\terrier\project\corpus\2048160563805782214.txt
+C:\terrier\project\corpus\2048162359458353312.txt
+C:\terrier\project\corpus\2048171140707975549.txt
+C:\terrier\project\corpus\2048172148280221731.txt
+C:\terrier\project\corpus\2048173929517453416.txt
+C:\terrier\project\corpus\2048181452903534818.txt
+C:\terrier\project\corpus\2048183203182309792.txt
+C:\terrier\project\corpus\2048191657917722986.txt
+C:\terrier\project\corpus\2048199320017797482.txt
+C:\terrier\project\corpus\2048199555838017732.txt
+C:\terrier\project\corpus\2048200485317103726.txt
+C:\terrier\project\corpus\2048207000001986657.txt
+C:\terrier\project\corpus\2048210259425317256.txt
+C:\terrier\project\corpus\2048228838275256482.txt
+C:\terrier\project\corpus\2048231535334084745.txt
+C:\terrier\project\corpus\2048238460453171698.txt
+C:\terrier\project\corpus\2048239657159479783.txt
+C:\terrier\project\corpus\2048279303977386131.txt
+C:\terrier\project\corpus\2048280554282569905.txt
+C:\terrier\project\corpus\2048289564716909009.txt
+C:\terrier\project\corpus\2048295197004427482.txt
+C:\terrier\project\corpus\2048295937877913884.txt
+C:\terrier\project\corpus\2048300252726198588.txt
+C:\terrier\project\corpus\2048301214538879400.txt
+C:\terrier\project\corpus\2048308576943235310.txt
+C:\terrier\project\corpus\2048313961767162334.txt
+C:\terrier\project\corpus\2048314091232547225.txt
+C:\terrier\project\corpus\2048314106420068802.txt
+C:\terrier\project\corpus\2048321368333357347.txt
+C:\terrier\project\corpus\2048324919134744886.txt
+C:\terrier\project\corpus\2048325623500947654.txt
+C:\terrier\project\corpus\2048327038268789216.txt
+C:\terrier\project\corpus\2048327663148769449.txt
+C:\terrier\project\corpus\2048333453813514453.txt
+C:\terrier\project\corpus\2048338738879631440.txt
+C:\terrier\project\corpus\2048340330873840047.txt
+C:\terrier\project\corpus\2048346160507609301.txt
+C:\terrier\project\corpus\2048353442515624379.txt
+C:\terrier\project\corpus\2048365485935165595.txt
+C:\terrier\project\corpus\2048365682392248431.txt
+C:\terrier\project\corpus\2048366003617173659.txt
+C:\terrier\project\corpus\2048374259257344450.txt
+C:\terrier\project\corpus\2048375645139587535.txt
+C:\terrier\project\corpus\2048376992060293546.txt
+C:\terrier\project\corpus\2048381297295241284.txt
+C:\terrier\project\corpus\2048381872443433371.txt
+C:\terrier\project\corpus\2048384076479127830.txt
+C:\terrier\project\corpus\2048385242709262492.txt
+C:\terrier\project\corpus\2048386725727375843.txt
+C:\terrier\project\corpus\2048393588804034593.txt
+C:\terrier\project\corpus\2048396043323355303.txt
+C:\terrier\project\corpus\2048402431873302656.txt
+C:\terrier\project\corpus\2048404653998477333.txt
+C:\terrier\project\corpus\2048406169442562407.txt
+C:\terrier\project\corpus\2048407131825783067.txt
+C:\terrier\project\corpus\2048407762976072111.txt
+C:\terrier\project\corpus\2048408839385424288.txt
+C:\terrier\project\corpus\2048425099083334087.txt
+C:\terrier\project\corpus\2048425323168174117.txt
+C:\terrier\project\corpus\2048434388371701983.txt
+C:\terrier\project\corpus\2048438974138704072.txt
+C:\terrier\project\corpus\2048442703126335971.txt
+C:\terrier\project\corpus\2048445927732699580.txt
+C:\terrier\project\corpus\2048446782690992152.txt
+C:\terrier\project\corpus\2048448521364546016.txt
+C:\terrier\project\corpus\2048451022755106994.txt
+C:\terrier\project\corpus\2048458328125419539.txt
+C:\terrier\project\corpus\2048460579065745651.txt
+C:\terrier\project\corpus\2048461354882015242.txt
+C:\terrier\project\corpus\2048467544491630867.txt
+C:\terrier\project\corpus\2048468471835394514.txt
+C:\terrier\project\corpus\2048472853289357475.txt
+C:\terrier\project\corpus\2048474625655648713.txt
+C:\terrier\project\corpus\2048477209359532444.txt
+C:\terrier\project\corpus\2048488342615134687.txt
+C:\terrier\project\corpus\2048489558304841872.txt
+C:\terrier\project\corpus\2048494873632743657.txt
+C:\terrier\project\corpus\2048496102266028235.txt
+C:\terrier\project\corpus\2048497864913895471.txt
+C:\terrier\project\corpus\2048499343116693944.txt
+C:\terrier\project\corpus\2048503105856151903.txt
+C:\terrier\project\corpus\2048507203267502464.txt
+C:\terrier\project\corpus\2048509127878455689.txt
+C:\terrier\project\corpus\2048521321806717341.txt
+C:\terrier\project\corpus\2048528861781008663.txt
+C:\terrier\project\corpus\2048537588051419208.txt
+C:\terrier\project\corpus\2048540094886522951.txt
+C:\terrier\project\corpus\2048546343317069946.txt
+C:\terrier\project\corpus\2048547452417196087.txt
+C:\terrier\project\corpus\2048551450532286912.txt
+C:\terrier\project\corpus\2048557741661434249.txt
+C:\terrier\project\corpus\2048562858141892866.txt
+C:\terrier\project\corpus\2048563638408216955.txt
+C:\terrier\project\corpus\2048573900209246443.txt
+C:\terrier\project\corpus\2048579506911228026.txt
+C:\terrier\project\corpus\2048579620564598852.txt
+C:\terrier\project\corpus\2048584332672200839.txt
+C:\terrier\project\corpus\2048588358390325753.txt
+C:\terrier\project\corpus\2048593172423495858.txt
+C:\terrier\project\corpus\2048600538158354671.txt
+C:\terrier\project\corpus\2048602483350458692.txt
+C:\terrier\project\corpus\2048612763912511877.txt
+C:\terrier\project\corpus\2048613789340188783.txt
+C:\terrier\project\corpus\2048620972471927104.txt
+C:\terrier\project\corpus\2048635321483747526.txt
+C:\terrier\project\corpus\2048641889440612617.txt
+C:\terrier\project\corpus\2048643528688103730.txt
+C:\terrier\project\corpus\2048645176231370877.txt
+C:\terrier\project\corpus\2048647654062587909.txt
+C:\terrier\project\corpus\2048647960137724281.txt
+C:\terrier\project\corpus\2048649637255688628.txt
+C:\terrier\project\corpus\2048654423228850291.txt
+C:\terrier\project\corpus\2048654643081744797.txt
+C:\terrier\project\corpus\2048662178207838663.txt
+C:\terrier\project\corpus\2048663316562575524.txt
+C:\terrier\project\corpus\2048663817924542875.txt
+C:\terrier\project\corpus\2048668450969518512.txt
+C:\terrier\project\corpus\2048668712199422118.txt
+C:\terrier\project\corpus\2048670145598439903.txt
+C:\terrier\project\corpus\2048674569305653487.txt
+C:\terrier\project\corpus\2048677465795473468.txt
+C:\terrier\project\corpus\2048678283605151794.txt
+C:\terrier\project\corpus\2048680298448097668.txt
+C:\terrier\project\corpus\2048680538840633391.txt
+C:\terrier\project\corpus\2048681132904919250.txt
+C:\terrier\project\corpus\2048694772076847570.txt
+C:\terrier\project\corpus\2048694978168381700.txt
+C:\terrier\project\corpus\2048695287938470074.txt
+C:\terrier\project\corpus\2048696289286615042.txt
+C:\terrier\project\corpus\2048700709571346718.txt
+C:\terrier\project\corpus\2048709928647344633.txt
+C:\terrier\project\corpus\2048710293568811134.txt
+C:\terrier\project\corpus\2048711128012689862.txt
+C:\terrier\project\corpus\2048716794630926726.txt
+C:\terrier\project\corpus\2048721706743669230.txt
+C:\terrier\project\corpus\2048722989122801714.txt
+C:\terrier\project\corpus\2048725225781739746.txt
+C:\terrier\project\corpus\2048726332910256448.txt
+C:\terrier\project\corpus\2048726928686010549.txt
+C:\terrier\project\corpus\2048728616209420510.txt
+C:\terrier\project\corpus\2048729180729155873.txt
+C:\terrier\project\corpus\2048734714517696540.txt
+C:\terrier\project\corpus\2048742490568593708.txt
+C:\terrier\project\corpus\2048748443687141599.txt
+C:\terrier\project\corpus\2048749168164806972.txt
+C:\terrier\project\corpus\2048754832652251160.txt
+C:\terrier\project\corpus\2048757122712695090.txt
+C:\terrier\project\corpus\2048760717889962123.txt
+C:\terrier\project\corpus\2048767441421881708.txt
+C:\terrier\project\corpus\2048771812654211494.txt
+C:\terrier\project\corpus\2048783738973061497.txt
+C:\terrier\project\corpus\2048787809897521208.txt
+C:\terrier\project\corpus\2048788620723593426.txt
+C:\terrier\project\corpus\2048794358732787732.txt
+C:\terrier\project\corpus\2048796160815489103.txt
+C:\terrier\project\corpus\2048802467320680497.txt
+C:\terrier\project\corpus\2048805374593990876.txt
+C:\terrier\project\corpus\2048810082461233166.txt
+C:\terrier\project\corpus\2048813809205162051.txt
+C:\terrier\project\corpus\2048817604832202905.txt
+C:\terrier\project\corpus\2048818004968767810.txt
+C:\terrier\project\corpus\2048818783918100964.txt
+C:\terrier\project\corpus\2048819911363866949.txt
+C:\terrier\project\corpus\2048819968066601137.txt
+C:\terrier\project\corpus\2048820944366690678.txt
+C:\terrier\project\corpus\2048826987599347919.txt
+C:\terrier\project\corpus\2048827884567945709.txt
+C:\terrier\project\corpus\2048828160398049583.txt
+C:\terrier\project\corpus\2048828220884017394.txt
+C:\terrier\project\corpus\2048828240018407491.txt
+C:\terrier\project\corpus\2048828259060593030.txt
+C:\terrier\project\corpus\2048830495220264989.txt
+C:\terrier\project\corpus\2048836173578064261.txt
+C:\terrier\project\corpus\2048842095763554493.txt
+C:\terrier\project\corpus\2048842708383351245.txt
+C:\terrier\project\corpus\2048843228292743422.txt
+C:\terrier\project\corpus\2048845254481346836.txt
+C:\terrier\project\corpus\2048848405376430129.txt
+C:\terrier\project\corpus\2048856107787927748.txt
+C:\terrier\project\corpus\2048861027249651995.txt
+C:\terrier\project\corpus\2048861061684548094.txt
+C:\terrier\project\corpus\2048861390262202729.txt
+C:\terrier\project\corpus\2048861497808322763.txt
+C:\terrier\project\corpus\2048861999115673700.txt
+C:\terrier\project\corpus\2048862167915503949.txt
+C:\terrier\project\corpus\2048862226497552644.txt
+C:\terrier\project\corpus\2048862253638692915.txt
+C:\terrier\project\corpus\2048862555251069363.txt
+C:\terrier\project\corpus\2048862632174563586.txt
+C:\terrier\project\corpus\2048862665540501975.txt
+C:\terrier\project\corpus\2048862818175443305.txt
+C:\terrier\project\corpus\2048862900371038231.txt
+C:\terrier\project\corpus\2048863046810923493.txt
+C:\terrier\project\corpus\2048863181079027871.txt
+C:\terrier\project\corpus\2048863191980179596.txt
+C:\terrier\project\corpus\2048863218584482119.txt
+C:\terrier\project\corpus\2048863270937772258.txt
+C:\terrier\project\corpus\2048863315871293877.txt
+C:\terrier\project\corpus\2048863336180126014.txt
+C:\terrier\project\corpus\2048863550471540843.txt
+C:\terrier\project\corpus\2048863802750374390.txt
+C:\terrier\project\corpus\2048864126428921906.txt
+C:\terrier\project\corpus\2048864207743910132.txt
+C:\terrier\project\corpus\2048864228614779183.txt
+C:\terrier\project\corpus\2048864451542090083.txt
+C:\terrier\project\corpus\2048864557435936969.txt
+C:\terrier\project\corpus\2048864769998725386.txt
+C:\terrier\project\corpus\2048864921954213989.txt
+C:\terrier\project\corpus\2048865031790514606.txt
+C:\terrier\project\corpus\2048865095837499854.txt
+C:\terrier\project\corpus\2048865202947682391.txt
+C:\terrier\project\corpus\2048865368886685904.txt
+C:\terrier\project\corpus\2048865742603604443.txt
+C:\terrier\project\corpus\2048865906802016484.txt
+C:\terrier\project\corpus\2048866240945377415.txt
+C:\terrier\project\corpus\2048866348626055398.txt
+C:\terrier\project\corpus\2048866350328692925.txt
+C:\terrier\project\corpus\2048866431530319999.txt
+C:\terrier\project\corpus\2048866537897939337.txt
+C:\terrier\project\corpus\2048866579103027336.txt
+C:\terrier\project\corpus\2048866585159319775.txt
+C:\terrier\project\corpus\2048866642038505506.txt
+C:\terrier\project\corpus\2048866743200911603.txt
+C:\terrier\project\corpus\2048866790344896636.txt
+C:\terrier\project\corpus\2048866818828419200.txt
+C:\terrier\project\corpus\2048866849765351690.txt
+C:\terrier\project\corpus\2048866862159601916.txt
+C:\terrier\project\corpus\2048866930660970945.txt
+C:\terrier\project\corpus\2048866939624444076.txt
+C:\terrier\project\corpus\2048867128061874545.txt
+C:\terrier\project\corpus\2048867186307936550.txt
+C:\terrier\project\corpus\2048867198861824294.txt
+C:\terrier\project\corpus\2048867269246431579.txt
+C:\terrier\project\corpus\2048867279757340851.txt
+C:\terrier\project\corpus\2048867374380499007.txt
+C:\terrier\project\corpus\2048867429317804319.txt
+C:\terrier\project\corpus\2048867432173879390.txt
+C:\terrier\project\corpus\2048867533659181168.txt
+C:\terrier\project\corpus\2048867559760437416.txt
+C:\terrier\project\corpus\2048867604736176454.txt
+C:\terrier\project\corpus\2048867623966773529.txt
+C:\terrier\project\corpus\2048867820474073565.txt
+C:\terrier\project\corpus\2048867875369230579.txt
+C:\terrier\project\corpus\2048867948442329449.txt
+C:\terrier\project\corpus\2048868063194526127.txt
+C:\terrier\project\corpus\2048868167381057881.txt
+C:\terrier\project\corpus\2048868253045321759.txt
+C:\terrier\project\corpus\2048868436340879402.txt
+C:\terrier\project\corpus\2048868520784769210.txt
+C:\terrier\project\corpus\2048868582214304145.txt
+C:\terrier\project\corpus\2048868589256556919.txt
+C:\terrier\project\corpus\2048868591747956962.txt
+C:\terrier\project\corpus\2048868676326359088.txt
+C:\terrier\project\corpus\2048868827450966192.txt
+C:\terrier\project\corpus\2048868836019957787.txt
+C:\terrier\project\corpus\2048868943092125790.txt
+C:\terrier\project\corpus\2048868969210429866.txt
+C:\terrier\project\corpus\2048868996490076665.txt
+C:\terrier\project\corpus\2048869044476858527.txt
+C:\terrier\project\corpus\2048869075925729395.txt
+C:\terrier\project\corpus\2048869075992838272.txt
+C:\terrier\project\corpus\2048869077540569423.txt
+C:\terrier\project\corpus\2048869256750600629.txt
+C:\terrier\project\corpus\2048869478507663542.txt
+C:\terrier\project\corpus\2048869514914185687.txt
+C:\terrier\project\corpus\2048869778022903947.txt
+C:\terrier\project\corpus\2048869798981845261.txt
+C:\terrier\project\corpus\2048869826332930494.txt
+C:\terrier\project\corpus\2048869841075909062.txt
+C:\terrier\project\corpus\2048869846553604489.txt
+C:\terrier\project\corpus\2048869948982735121.txt
+C:\terrier\project\corpus\2048870005064790136.txt
+C:\terrier\project\corpus\2048870043975385528.txt
+C:\terrier\project\corpus\2048870051478921256.txt
+C:\terrier\project\corpus\2048870102984974413.txt
+C:\terrier\project\corpus\2048870174153981978.txt
+C:\terrier\project\corpus\2048870249714589982.txt
+C:\terrier\project\corpus\2048870287299555592.txt
+C:\terrier\project\corpus\2048870455700750498.txt
+C:\terrier\project\corpus\2048870556431192354.txt
+C:\terrier\project\corpus\2048870607580987646.txt
+C:\terrier\project\corpus\2048870725361205507.txt
+C:\terrier\project\corpus\2048870787080204546.txt
+C:\terrier\project\corpus\2048870817619145101.txt
+C:\terrier\project\corpus\2048870909222785199.txt
+C:\terrier\project\corpus\2048870920689971362.txt
+C:\terrier\project\corpus\2048871059177242889.txt
+C:\terrier\project\corpus\2048871108032561645.txt
+C:\terrier\project\corpus\2048871109613801633.txt
+C:\terrier\project\corpus\2048871177616032053.txt
+C:\terrier\project\corpus\2048871390820913221.txt
+C:\terrier\project\corpus\2048871607444160652.txt
+C:\terrier\project\corpus\2048871756060921864.txt
+C:\terrier\project\corpus\2048871764030115992.txt
+C:\terrier\project\corpus\2048871805348143154.txt
+C:\terrier\project\corpus\2048871823966970167.txt
+C:\terrier\project\corpus\2048871845722571242.txt
+C:\terrier\project\corpus\2048871892623471071.txt
+C:\terrier\project\corpus\2048871926169567260.txt
+C:\terrier\project\corpus\2048872021476417658.txt
+C:\terrier\project\corpus\2048872171494428714.txt
+C:\terrier\project\corpus\2048872172249305595.txt
+C:\terrier\project\corpus\2048872201827295674.txt
+C:\terrier\project\corpus\2048872235620794671.txt
+C:\terrier\project\corpus\2048872303446884659.txt
+C:\terrier\project\corpus\2048872338771308862.txt
+C:\terrier\project\corpus\2048872400733839511.txt
+C:\terrier\project\corpus\2048872539481412070.txt
+C:\terrier\project\corpus\2048872607177400476.txt
+C:\terrier\project\corpus\2048872777457836193.txt
+C:\terrier\project\corpus\2048872964100112624.txt
+C:\terrier\project\corpus\2048873042911396286.txt
+C:\terrier\project\corpus\2048873218170314835.txt
+C:\terrier\project\corpus\2048873252328530178.txt
+C:\terrier\project\corpus\2048873419249426506.txt
+C:\terrier\project\corpus\2048873586908123537.txt
+C:\terrier\project\corpus\2048873686325764591.txt
+C:\terrier\project\corpus\2048873734854066407.txt
+C:\terrier\project\corpus\2048873768559468828.txt
+C:\terrier\project\corpus\2048873880769442103.txt
+C:\terrier\project\corpus\2048874134567031087.txt
+C:\terrier\project\corpus\2048874235783762001.txt
+C:\terrier\project\corpus\2048874238560379010.txt
+C:\terrier\project\corpus\2048874279215788125.txt
+C:\terrier\project\corpus\2048874343758000414.txt
+C:\terrier\project\corpus\2048874490633843014.txt
+C:\terrier\project\corpus\2048874499949404480.txt
+C:\terrier\project\corpus\2048874594614837648.txt
+C:\terrier\project\corpus\2048874596254797842.txt
+C:\terrier\project\corpus\2048874630073438406.txt
+C:\terrier\project\corpus\2048874738345283589.txt
+C:\terrier\project\corpus\2048874752031220159.txt
+C:\terrier\project\corpus\2048874836483563938.txt
+C:\terrier\project\corpus\2048874851390427402.txt
+C:\terrier\project\corpus\2048874952430919744.txt
+C:\terrier\project\corpus\2048874968084050044.txt
+C:\terrier\project\corpus\2048875116688269400.txt
+C:\terrier\project\corpus\2048875152935465139.txt
+C:\terrier\project\corpus\2048875350587822147.txt
+C:\terrier\project\corpus\2048875352068428159.txt
+C:\terrier\project\corpus\2048875364789768565.txt
+C:\terrier\project\corpus\2048875367134376194.txt
+C:\terrier\project\corpus\2048875589361193052.txt
+C:\terrier\project\corpus\2048875732827283609.txt
+C:\terrier\project\corpus\2048875787038720374.txt
+C:\terrier\project\corpus\2048875815056646244.txt
+C:\terrier\project\corpus\2048875823877202396.txt
+C:\terrier\project\corpus\2048875837080932391.txt
+C:\terrier\project\corpus\2048875841359372406.txt
+C:\terrier\project\corpus\2048876045021938157.txt
+C:\terrier\project\corpus\2048876145928716553.txt
+C:\terrier\project\corpus\2048876176534339874.txt
+C:\terrier\project\corpus\2048876180523389067.txt
+C:\terrier\project\corpus\2048876240199725557.txt
+C:\terrier\project\corpus\2048876304083124391.txt
+C:\terrier\project\corpus\2048876545243038009.txt
+C:\terrier\project\corpus\2048876550494580877.txt
+C:\terrier\project\corpus\2048876571650617391.txt
+C:\terrier\project\corpus\2048876691078910085.txt
+C:\terrier\project\corpus\2048876867529154642.txt
+C:\terrier\project\corpus\2048877024299647099.txt
+C:\terrier\project\corpus\2048877065764585916.txt
+C:\terrier\project\corpus\2048877195402076661.txt
+C:\terrier\project\corpus\2048877206621782277.txt
+C:\terrier\project\corpus\2048877241577144749.txt
+C:\terrier\project\corpus\2048877726161834209.txt
+C:\terrier\project\corpus\2048877786794754493.txt
+C:\terrier\project\corpus\2048877875982475590.txt
+C:\terrier\project\corpus\2048877924908929279.txt
+C:\terrier\project\corpus\2048878086918160791.txt
+C:\terrier\project\corpus\2048878100939985073.txt
+C:\terrier\project\corpus\2048878141423206814.txt
+C:\terrier\project\corpus\2048878939146273256.txt
+C:\terrier\project\corpus\2048879063151104340.txt
+C:\terrier\project\corpus\2048879169862504464.txt
+C:\terrier\project\corpus\2048879243916878223.txt
+C:\terrier\project\corpus\2048879301660205131.txt
+C:\terrier\project\corpus\2048879700676644883.txt
+C:\terrier\project\corpus\2048880242870165911.txt
+C:\terrier\project\corpus\2048880283013759423.txt
+C:\terrier\project\corpus\2048880447300518362.txt
+C:\terrier\project\corpus\2048880516951056548.txt
+C:\terrier\project\corpus\2048880717837246828.txt
+C:\terrier\project\corpus\2048881149791858848.txt
+C:\terrier\project\corpus\2048881254519525591.txt
+C:\terrier\project\corpus\2048881343258399022.txt
+C:\terrier\project\corpus\2048881830288674854.txt
+C:\terrier\project\corpus\2048882258002526376.txt
