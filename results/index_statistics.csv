@@ -1,0 +1,4 @@
+Index Strategy,Documents,Total Tokens,Vocabulary Size (Unique Terms),Total Postings
+"No stemming, no stopwords",2391,87391,7870,75253
+Porter Stemmer,2391,87391,5610,74636
+No stemmer + stopword removal,2391,51786,7543,48596
